@@ -1,0 +1,1277 @@
+7-Zip [64] 17.05 : Copyright (c) 1999-2021 Igor Pavlov : 2017-08-28
+p7zip Version 17.05 (locale=utf8,Utf16=on,HugeFiles=on,64 bits,8 CPUs LE)
+
+Scanning the drive for archives:
+1 file, 978434048 bytes (934 MiB)
+
+Listing archive: khanos_v1.iso
+
+--
+Path = khanos_v1.iso
+Type = Iso
+Physical Size = 978434048
+Created = 2026-03-22 17:49:32
+Modified = 2026-03-22 17:49:32
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2026-03-19 20:21:34 D....                            EFI
+2026-03-19 20:40:38 D....                            EFI/BOOT
+2026-03-19 20:23:11 .....      5271552      5271552  EFI/BOOT/BOOTAA64.EFI
+2026-03-19 20:40:38 .....      5271552      5271552  EFI/BOOT/fallback.efi
+2026-03-19 20:44:30 .....          256          256  LICENSE
+2026-03-19 20:54:01 D....                            boot
+2026-03-19 20:54:01 .....          100          100  boot/append.cfg
+2026-03-19 20:53:59 D....                            boot/grub
+2026-03-19 20:53:59 .....          312          312  boot/grub/grub.cfg
+2026-03-19 20:39:56 D....                            boot/grub/i386-pc
+2026-03-19 20:39:56 .....            0            0  boot/grub/i386-pc/core.img
+2026-03-19 20:31:19 .....     33907250     33907250  boot/linux-virt-6.6.117-r0.3cee1f73.apk
+2026-03-19 20:32:08 D....                            boot/modloop-virt
+2026-03-19 20:32:05 .....            6            6  boot/modloop-virt/initramfs-suffix
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/arch
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/arch/arm64
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/arch/arm64/crypto
+2026-03-19 20:32:05 .....        10946        10946  boot/modloop-virt/kernel/arch/arm64/crypto/aes-ce-blk.ko.gz
+2026-03-19 20:32:05 .....         4738         4738  boot/modloop-virt/kernel/arch/arm64/crypto/aes-ce-ccm.ko.gz
+2026-03-19 20:32:05 .....         4174         4174  boot/modloop-virt/kernel/arch/arm64/crypto/aes-ce-cipher.ko.gz
+2026-03-19 20:32:05 .....         9734         9734  boot/modloop-virt/kernel/arch/arm64/crypto/aes-neon-blk.ko.gz
+2026-03-19 20:32:05 .....         8021         8021  boot/modloop-virt/kernel/arch/arm64/crypto/aes-neon-bs.ko.gz
+2026-03-19 20:32:05 .....         7003         7003  boot/modloop-virt/kernel/arch/arm64/crypto/chacha-neon.ko.gz
+2026-03-19 20:32:05 .....         4861         4861  boot/modloop-virt/kernel/arch/arm64/crypto/crct10dif-ce.ko.gz
+2026-03-19 20:32:05 .....         8632         8632  boot/modloop-virt/kernel/arch/arm64/crypto/ghash-ce.ko.gz
+2026-03-19 20:32:05 .....         3441         3441  boot/modloop-virt/kernel/arch/arm64/crypto/nhpoly1305-neon.ko.gz
+2026-03-19 20:32:05 .....         6241         6241  boot/modloop-virt/kernel/arch/arm64/crypto/poly1305-neon.ko.gz
+2026-03-19 20:32:05 .....         5140         5140  boot/modloop-virt/kernel/arch/arm64/crypto/sha1-ce.ko.gz
+2026-03-19 20:32:05 .....         5953         5953  boot/modloop-virt/kernel/arch/arm64/crypto/sha2-ce.ko.gz
+2026-03-19 20:32:05 .....         8638         8638  boot/modloop-virt/kernel/arch/arm64/crypto/sha256-arm64.ko.gz
+2026-03-19 20:32:05 .....         4576         4576  boot/modloop-virt/kernel/arch/arm64/crypto/sha3-ce.ko.gz
+2026-03-19 20:32:05 .....         6738         6738  boot/modloop-virt/kernel/arch/arm64/crypto/sha512-arm64.ko.gz
+2026-03-19 20:32:05 .....         6216         6216  boot/modloop-virt/kernel/arch/arm64/crypto/sha512-ce.ko.gz
+2026-03-19 20:32:05 .....         4580         4580  boot/modloop-virt/kernel/arch/arm64/crypto/sm3-ce.ko.gz
+2026-03-19 20:32:05 .....         6397         6397  boot/modloop-virt/kernel/arch/arm64/crypto/sm3-neon.ko.gz
+2026-03-19 20:32:05 .....         3434         3434  boot/modloop-virt/kernel/arch/arm64/crypto/sm4-ce-cipher.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/arch/arm64/lib
+2026-03-19 20:32:05 .....         3409         3409  boot/modloop-virt/kernel/arch/arm64/lib/xor-neon.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/block
+2026-03-19 20:32:05 .....         5661         5661  boot/modloop-virt/kernel/block/t10-pi.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/crypto
+2026-03-19 20:32:05 .....         6414         6414  boot/modloop-virt/kernel/crypto/adiantum.ko.gz
+2026-03-19 20:32:05 .....        12675        12675  boot/modloop-virt/kernel/crypto/aegis128.ko.gz
+2026-03-19 20:32:05 .....        13400        13400  boot/modloop-virt/kernel/crypto/af_alg.ko.gz
+2026-03-19 20:32:05 .....         6969         6969  boot/modloop-virt/kernel/crypto/algif_aead.ko.gz
+2026-03-19 20:32:05 .....         6017         6017  boot/modloop-virt/kernel/crypto/algif_hash.ko.gz
+2026-03-19 20:32:05 .....         4254         4254  boot/modloop-virt/kernel/crypto/algif_rng.ko.gz
+2026-03-19 20:32:05 .....         5878         5878  boot/modloop-virt/kernel/crypto/algif_skcipher.ko.gz
+2026-03-19 20:32:05 .....         5584         5584  boot/modloop-virt/kernel/crypto/ansi_cprng.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/crypto/async_tx
+2026-03-19 20:32:05 .....         3319         3319  boot/modloop-virt/kernel/crypto/async_tx/async_memcpy.ko.gz
+2026-03-19 20:32:05 .....         6960         6960  boot/modloop-virt/kernel/crypto/async_tx/async_pq.ko.gz
+2026-03-19 20:32:05 .....         3357         3357  boot/modloop-virt/kernel/crypto/async_tx/async_raid6_recov.ko.gz
+2026-03-19 20:32:05 .....         4004         4004  boot/modloop-virt/kernel/crypto/async_tx/async_tx.ko.gz
+2026-03-19 20:32:05 .....         5587         5587  boot/modloop-virt/kernel/crypto/async_tx/async_xor.ko.gz
+2026-03-19 20:32:05 .....         5641         5641  boot/modloop-virt/kernel/crypto/authenc.ko.gz
+2026-03-19 20:32:05 .....         5950         5950  boot/modloop-virt/kernel/crypto/authencesn.ko.gz
+2026-03-19 20:32:05 .....         6564         6564  boot/modloop-virt/kernel/crypto/blake2b_generic.ko.gz
+2026-03-19 20:32:05 .....         7422         7422  boot/modloop-virt/kernel/crypto/blowfish_common.ko.gz
+2026-03-19 20:32:05 .....         3042         3042  boot/modloop-virt/kernel/crypto/blowfish_generic.ko.gz
+2026-03-19 20:32:05 .....        12795        12795  boot/modloop-virt/kernel/crypto/camellia_generic.ko.gz
+2026-03-19 20:32:05 .....        10440        10440  boot/modloop-virt/kernel/crypto/cast5_generic.ko.gz
+2026-03-19 20:32:05 .....         5694         5694  boot/modloop-virt/kernel/crypto/cast6_generic.ko.gz
+2026-03-19 20:32:05 .....         6159         6159  boot/modloop-virt/kernel/crypto/cast_common.ko.gz
+2026-03-19 20:32:05 .....         8640         8640  boot/modloop-virt/kernel/crypto/ccm.ko.gz
+2026-03-19 20:32:05 .....         3461         3461  boot/modloop-virt/kernel/crypto/cfb.ko.gz
+2026-03-19 20:32:05 .....         6056         6056  boot/modloop-virt/kernel/crypto/chacha20poly1305.ko.gz
+2026-03-19 20:32:05 .....         3527         3527  boot/modloop-virt/kernel/crypto/chacha_generic.ko.gz
+2026-03-19 20:32:05 .....         4262         4262  boot/modloop-virt/kernel/crypto/cmac.ko.gz
+2026-03-19 20:32:05 .....         2790         2790  boot/modloop-virt/kernel/crypto/crc32_generic.ko.gz
+2026-03-19 20:32:05 .....         2791         2791  boot/modloop-virt/kernel/crypto/crc32c_generic.ko.gz
+2026-03-19 20:32:05 .....         2558         2558  boot/modloop-virt/kernel/crypto/crc64_rocksoft_generic.ko.gz
+2026-03-19 20:32:05 .....         8176         8176  boot/modloop-virt/kernel/crypto/crypto_engine.ko.gz
+2026-03-19 20:32:05 .....         6700         6700  boot/modloop-virt/kernel/crypto/crypto_user.ko.gz
+2026-03-19 20:32:05 .....         3036         3036  boot/modloop-virt/kernel/crypto/curve25519-generic.ko.gz
+2026-03-19 20:32:05 .....         2965         2965  boot/modloop-virt/kernel/crypto/des_generic.ko.gz
+2026-03-19 20:32:05 .....        16620        16620  boot/modloop-virt/kernel/crypto/ecc.ko.gz
+2026-03-19 20:32:05 .....         4416         4416  boot/modloop-virt/kernel/crypto/ecdh_generic.ko.gz
+2026-03-19 20:32:05 .....         5101         5101  boot/modloop-virt/kernel/crypto/ecdsa_generic.ko.gz
+2026-03-19 20:32:05 .....         3281         3281  boot/modloop-virt/kernel/crypto/echainiv.ko.gz
+2026-03-19 20:32:05 .....         6702         6702  boot/modloop-virt/kernel/crypto/essiv.ko.gz
+2026-03-19 20:32:05 .....         5639         5639  boot/modloop-virt/kernel/crypto/fcrypt.ko.gz
+2026-03-19 20:32:05 .....         6365         6365  boot/modloop-virt/kernel/crypto/hctr2.ko.gz
+2026-03-19 20:32:05 .....         3481         3481  boot/modloop-virt/kernel/crypto/keywrap.ko.gz
+2026-03-19 20:32:05 .....         4838         4838  boot/modloop-virt/kernel/crypto/lrw.ko.gz
+2026-03-19 20:32:05 .....         3059         3059  boot/modloop-virt/kernel/crypto/lz4.ko.gz
+2026-03-19 20:32:05 .....         3067         3067  boot/modloop-virt/kernel/crypto/lz4hc.ko.gz
+2026-03-19 20:32:05 .....         3862         3862  boot/modloop-virt/kernel/crypto/md4.ko.gz
+2026-03-19 20:32:05 .....         3045         3045  boot/modloop-virt/kernel/crypto/michael_mic.ko.gz
+2026-03-19 20:32:05 .....         4807         4807  boot/modloop-virt/kernel/crypto/nhpoly1305.ko.gz
+2026-03-19 20:32:05 .....         3179         3179  boot/modloop-virt/kernel/crypto/pcbc.ko.gz
+2026-03-19 20:32:05 .....         5310         5310  boot/modloop-virt/kernel/crypto/pcrypt.ko.gz
+2026-03-19 20:32:05 .....         3237         3237  boot/modloop-virt/kernel/crypto/poly1305_generic.ko.gz
+2026-03-19 20:32:05 .....         3903         3903  boot/modloop-virt/kernel/crypto/polyval-generic.ko.gz
+2026-03-19 20:32:05 .....         7046         7046  boot/modloop-virt/kernel/crypto/rmd160.ko.gz
+2026-03-19 20:32:05 .....        10555        10555  boot/modloop-virt/kernel/crypto/serpent_generic.ko.gz
+2026-03-19 20:32:05 .....         3954         3954  boot/modloop-virt/kernel/crypto/sha1_generic.ko.gz
+2026-03-19 20:32:05 .....         6205         6205  boot/modloop-virt/kernel/crypto/sm2_generic.ko.gz
+2026-03-19 20:32:05 .....         8559         8559  boot/modloop-virt/kernel/crypto/sm3.ko.gz
+2026-03-19 20:32:05 .....         3542         3542  boot/modloop-virt/kernel/crypto/sm4.ko.gz
+2026-03-19 20:32:05 .....        28681        28681  boot/modloop-virt/kernel/crypto/tcrypt.ko.gz
+2026-03-19 20:32:05 .....        11294        11294  boot/modloop-virt/kernel/crypto/twofish_common.ko.gz
+2026-03-19 20:32:05 .....         4880         4880  boot/modloop-virt/kernel/crypto/twofish_generic.ko.gz
+2026-03-19 20:32:05 .....         5973         5973  boot/modloop-virt/kernel/crypto/vmac.ko.gz
+2026-03-19 20:32:05 .....        12626        12626  boot/modloop-virt/kernel/crypto/wp512.ko.gz
+2026-03-19 20:32:05 .....         4156         4156  boot/modloop-virt/kernel/crypto/xcbc.ko.gz
+2026-03-19 20:32:05 .....         3197         3197  boot/modloop-virt/kernel/crypto/xctr.ko.gz
+2026-03-19 20:32:05 .....         5761         5761  boot/modloop-virt/kernel/crypto/xor.ko.gz
+2026-03-19 20:32:05 .....         2817         2817  boot/modloop-virt/kernel/crypto/xxhash_generic.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/acpi
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/acpi/apei
+2026-03-19 20:32:05 .....        10223        10223  boot/modloop-virt/kernel/drivers/acpi/apei/einj.ko.gz
+2026-03-19 20:32:05 .....         8569         8569  boot/modloop-virt/kernel/drivers/acpi/button.ko.gz
+2026-03-19 20:32:05 .....         7564         7564  boot/modloop-virt/kernel/drivers/acpi/fan.ko.gz
+2026-03-19 20:32:05 .....        11479        11479  boot/modloop-virt/kernel/drivers/acpi/thermal.ko.gz
+2026-03-19 20:32:05 .....         2998         2998  boot/modloop-virt/kernel/drivers/acpi/tiny-power-button.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/ata
+2026-03-19 20:32:05 .....        29567        29567  boot/modloop-virt/kernel/drivers/ata/ahci.ko.gz
+2026-03-19 20:32:05 .....        10220        10220  boot/modloop-virt/kernel/drivers/ata/ata_generic.ko.gz
+2026-03-19 20:32:05 .....        18725        18725  boot/modloop-virt/kernel/drivers/ata/ata_piix.ko.gz
+2026-03-19 20:32:05 .....        33289        33289  boot/modloop-virt/kernel/drivers/ata/libahci.ko.gz
+2026-03-19 20:32:05 .....       172337       172337  boot/modloop-virt/kernel/drivers/ata/libata.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/base
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/base/firmware_loader
+2026-03-19 20:32:05 .....        19170        19170  boot/modloop-virt/kernel/drivers/base/firmware_loader/firmware_class.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/block
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/block/drbd
+2026-03-19 20:32:05 .....       222106       222106  boot/modloop-virt/kernel/drivers/block/drbd/drbd.ko.gz
+2026-03-19 20:32:05 .....        20370        20370  boot/modloop-virt/kernel/drivers/block/loop.ko.gz
+2026-03-19 20:32:05 .....        29505        29505  boot/modloop-virt/kernel/drivers/block/nbd.ko.gz
+2026-03-19 20:32:05 .....        73453        73453  boot/modloop-virt/kernel/drivers/block/rbd.ko.gz
+2026-03-19 20:32:05 .....        14002        14002  boot/modloop-virt/kernel/drivers/block/virtio_blk.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/block/zram
+2026-03-19 20:32:05 .....        14512        14512  boot/modloop-virt/kernel/drivers/block/zram/zram.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/cdrom
+2026-03-19 20:32:05 .....        34799        34799  boot/modloop-virt/kernel/drivers/cdrom/cdrom.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/char
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/char/hw_random
+2026-03-19 20:32:05 .....         3181         3181  boot/modloop-virt/kernel/drivers/char/hw_random/arm_smccc_trng.ko.gz
+2026-03-19 20:32:05 .....         4260         4260  boot/modloop-virt/kernel/drivers/char/hw_random/cavium-rng-vf.ko.gz
+2026-03-19 20:32:05 .....         2871         2871  boot/modloop-virt/kernel/drivers/char/hw_random/cavium-rng.ko.gz
+2026-03-19 20:32:05 .....         4107         4107  boot/modloop-virt/kernel/drivers/char/hw_random/cn10k-rng.ko.gz
+2026-03-19 20:32:05 .....         3626         3626  boot/modloop-virt/kernel/drivers/char/hw_random/hisi-rng.ko.gz
+2026-03-19 20:32:05 .....         4065         4065  boot/modloop-virt/kernel/drivers/char/hw_random/histb-rng.ko.gz
+2026-03-19 20:32:05 .....        10065        10065  boot/modloop-virt/kernel/drivers/char/hw_random/rng-core.ko.gz
+2026-03-19 20:32:05 .....         4304         4304  boot/modloop-virt/kernel/drivers/char/hw_random/timeriomem-rng.ko.gz
+2026-03-19 20:32:05 .....         4719         4719  boot/modloop-virt/kernel/drivers/char/hw_random/virtio-rng.ko.gz
+2026-03-19 20:32:05 .....         5293         5293  boot/modloop-virt/kernel/drivers/char/hw_random/xgene-rng.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/cpufreq
+2026-03-19 20:32:05 .....         4540         4540  boot/modloop-virt/kernel/drivers/cpufreq/cpufreq_conservative.ko.gz
+2026-03-19 20:32:05 .....         2661         2661  boot/modloop-virt/kernel/drivers/cpufreq/cpufreq_powersave.ko.gz
+2026-03-19 20:32:05 .....         4146         4146  boot/modloop-virt/kernel/drivers/cpufreq/cpufreq_userspace.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/crypto
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/crypto/cavium
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/crypto/cavium/cpt
+2026-03-19 20:32:05 .....         9926         9926  boot/modloop-virt/kernel/drivers/crypto/cavium/cpt/cptpf.ko.gz
+2026-03-19 20:32:05 .....        17859        17859  boot/modloop-virt/kernel/drivers/crypto/cavium/cpt/cptvf.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/crypto/ccp
+2026-03-19 20:32:05 .....        19439        19439  boot/modloop-virt/kernel/drivers/crypto/ccp/ccp-crypto.ko.gz
+2026-03-19 20:32:05 .....        47421        47421  boot/modloop-virt/kernel/drivers/crypto/ccp/ccp.ko.gz
+2026-03-19 20:32:05 .....         4260         4260  boot/modloop-virt/kernel/drivers/crypto/qcom-rng.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/crypto/virtio
+2026-03-19 20:32:05 .....        17726        17726  boot/modloop-virt/kernel/drivers/crypto/virtio/virtio_crypto.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/dma
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/dma/dw
+2026-03-19 20:32:05 .....         6328         6328  boot/modloop-virt/kernel/drivers/dma/dw/dw_dmac.ko.gz
+2026-03-19 20:32:05 .....        16739        16739  boot/modloop-virt/kernel/drivers/dma/dw/dw_dmac_core.ko.gz
+2026-03-19 20:32:05 .....         4742         4742  boot/modloop-virt/kernel/drivers/dma/dw/dw_dmac_pci.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/dma/qcom
+2026-03-19 20:32:05 .....        16917        16917  boot/modloop-virt/kernel/drivers/dma/qcom/hdma.ko.gz
+2026-03-19 20:32:05 .....         8868         8868  boot/modloop-virt/kernel/drivers/dma/qcom/hdma_mgmt.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/firmware
+2026-03-19 20:32:05 .....        11212        11212  boot/modloop-virt/kernel/drivers/firmware/arm_scpi.ko.gz
+2026-03-19 20:32:05 .....         9339         9339  boot/modloop-virt/kernel/drivers/firmware/dmi-sysfs.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/firmware/efi
+2026-03-19 20:32:05 .....         4890         4890  boot/modloop-virt/kernel/drivers/firmware/efi/efi-pstore.ko.gz
+2026-03-19 20:32:05 .....         8106         8106  boot/modloop-virt/kernel/drivers/firmware/qemu_fw_cfg.ko.gz
+2026-03-19 20:32:05 .....         3963         3963  boot/modloop-virt/kernel/drivers/firmware/scpi_pm_domain.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpio
+2026-03-19 20:32:05 .....         6414         6414  boot/modloop-virt/kernel/drivers/gpio/gpio-pl061.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu/drm
+2026-03-19 20:32:05 .....       285366       285366  boot/modloop-virt/kernel/drivers/gpu/drm/drm.ko.gz
+2026-03-19 20:32:05 .....       106416       106416  boot/modloop-virt/kernel/drivers/gpu/drm/drm_kms_helper.ko.gz
+2026-03-19 20:32:05 .....         4386         4386  boot/modloop-virt/kernel/drivers/gpu/drm/drm_panel_orientation_quirks.ko.gz
+2026-03-19 20:32:05 .....        12934        12934  boot/modloop-virt/kernel/drivers/gpu/drm/drm_shmem_helper.ko.gz
+2026-03-19 20:32:05 .....         7909         7909  boot/modloop-virt/kernel/drivers/gpu/drm/drm_ttm_helper.ko.gz
+2026-03-19 20:32:05 .....        21630        21630  boot/modloop-virt/kernel/drivers/gpu/drm/drm_vram_helper.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu/drm/hyperv
+2026-03-19 20:32:05 .....        26079        26079  boot/modloop-virt/kernel/drivers/gpu/drm/hyperv/hyperv_drm.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu/drm/qxl
+2026-03-19 20:32:05 .....        56857        56857  boot/modloop-virt/kernel/drivers/gpu/drm/qxl/qxl.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu/drm/tiny
+2026-03-19 20:32:05 .....        23778        23778  boot/modloop-virt/kernel/drivers/gpu/drm/tiny/bochs.ko.gz
+2026-03-19 20:32:05 .....        20240        20240  boot/modloop-virt/kernel/drivers/gpu/drm/tiny/cirrus.ko.gz
+2026-03-19 20:32:05 .....        23137        23137  boot/modloop-virt/kernel/drivers/gpu/drm/tiny/simpledrm.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu/drm/ttm
+2026-03-19 20:32:05 .....        42377        42377  boot/modloop-virt/kernel/drivers/gpu/drm/ttm/ttm.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/gpu/drm/virtio
+2026-03-19 20:32:05 .....        58572        58572  boot/modloop-virt/kernel/drivers/gpu/drm/virtio/virtio-gpu.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/hid
+2026-03-19 20:32:05 .....         5047         5047  boot/modloop-virt/kernel/drivers/hid/hid-generic.ko.gz
+2026-03-19 20:32:05 .....        11047        11047  boot/modloop-virt/kernel/drivers/hid/hid-hyperv.ko.gz
+2026-03-19 20:32:05 .....        66912        66912  boot/modloop-virt/kernel/drivers/hid/hid.ko.gz
+2026-03-19 20:32:05 .....        11553        11553  boot/modloop-virt/kernel/drivers/hid/uhid.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/hid/usbhid
+2026-03-19 20:32:05 .....        24867        24867  boot/modloop-virt/kernel/drivers/hid/usbhid/usbhid.ko.gz
+2026-03-19 20:32:05 .....         9742         9742  boot/modloop-virt/kernel/drivers/hid/usbhid/usbkbd.ko.gz
+2026-03-19 20:32:05 .....         8086         8086  boot/modloop-virt/kernel/drivers/hid/usbhid/usbmouse.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/hv
+2026-03-19 20:32:05 .....        20100        20100  boot/modloop-virt/kernel/drivers/hv/hv_balloon.ko.gz
+2026-03-19 20:32:05 .....        25328        25328  boot/modloop-virt/kernel/drivers/hv/hv_utils.ko.gz
+2026-03-19 20:32:05 .....        65443        65443  boot/modloop-virt/kernel/drivers/hv/hv_vmbus.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/hwmon
+2026-03-19 20:32:05 .....         9233         9233  boot/modloop-virt/kernel/drivers/hwmon/acpi_power_meter.ko.gz
+2026-03-19 20:32:05 .....        15072        15072  boot/modloop-virt/kernel/drivers/hwmon/hwmon.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/i2c
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/i2c/algos
+2026-03-19 20:32:05 .....         6999         6999  boot/modloop-virt/kernel/drivers/i2c/algos/i2c-algo-pca.ko.gz
+2026-03-19 20:32:05 .....         6297         6297  boot/modloop-virt/kernel/drivers/i2c/algos/i2c-algo-pcf.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/i2c/busses
+2026-03-19 20:32:05 .....         6817         6817  boot/modloop-virt/kernel/drivers/i2c/busses/i2c-nforce2.ko.gz
+2026-03-19 20:32:05 .....         5713         5713  boot/modloop-virt/kernel/drivers/i2c/busses/i2c-virtio.ko.gz
+2026-03-19 20:32:05 .....        49336        49336  boot/modloop-virt/kernel/drivers/i2c/i2c-core.ko.gz
+2026-03-19 20:32:05 .....        10597        10597  boot/modloop-virt/kernel/drivers/i2c/i2c-dev.ko.gz
+2026-03-19 20:32:05 .....         6809         6809  boot/modloop-virt/kernel/drivers/i2c/i2c-mux.ko.gz
+2026-03-19 20:32:05 .....         6470         6470  boot/modloop-virt/kernel/drivers/i2c/i2c-smbus.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/i2c/muxes
+2026-03-19 20:32:05 .....         5363         5363  boot/modloop-virt/kernel/drivers/i2c/muxes/i2c-mux-pca9541.ko.gz
+2026-03-19 20:32:05 .....         8601         8601  boot/modloop-virt/kernel/drivers/i2c/muxes/i2c-mux-pca954x.ko.gz
+2026-03-19 20:32:05 .....         5199         5199  boot/modloop-virt/kernel/drivers/i2c/muxes/i2c-mux-pinctrl.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/input
+2026-03-19 20:32:05 .....        12424        12424  boot/modloop-virt/kernel/drivers/input/evdev.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/input/serio
+2026-03-19 20:32:05 .....         7652         7652  boot/modloop-virt/kernel/drivers/input/serio/hyperv-keyboard.ko.gz
+2026-03-19 20:32:05 .....         4921         4921  boot/modloop-virt/kernel/drivers/input/serio/serport.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/iommu
+2026-03-19 20:32:05 .....        11583        11583  boot/modloop-virt/kernel/drivers/iommu/virtio-iommu.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/mailbox
+2026-03-19 20:32:05 .....         3813         3813  boot/modloop-virt/kernel/drivers/mailbox/arm_mhu.ko.gz
+2026-03-19 20:32:05 .....         5391         5391  boot/modloop-virt/kernel/drivers/mailbox/arm_mhu_db.ko.gz
+2026-03-19 20:32:05 .....         3937         3937  boot/modloop-virt/kernel/drivers/mailbox/mailbox-xgene-slimpro.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/md
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/md/bcache
+2026-03-19 20:32:05 .....       153102       153102  boot/modloop-virt/kernel/drivers/md/bcache/bcache.ko.gz
+2026-03-19 20:32:05 .....        10013        10013  boot/modloop-virt/kernel/drivers/md/dm-bio-prison.ko.gz
+2026-03-19 20:32:05 .....        23688        23688  boot/modloop-virt/kernel/drivers/md/dm-bufio.ko.gz
+2026-03-19 20:32:05 .....        15045        15045  boot/modloop-virt/kernel/drivers/md/dm-cache-smq.ko.gz
+2026-03-19 20:32:05 .....        40923        40923  boot/modloop-virt/kernel/drivers/md/dm-cache.ko.gz
+2026-03-19 20:32:05 .....        30192        30192  boot/modloop-virt/kernel/drivers/md/dm-crypt.ko.gz
+2026-03-19 20:32:05 .....         6799         6799  boot/modloop-virt/kernel/drivers/md/dm-delay.ko.gz
+2026-03-19 20:32:05 .....        15576        15576  boot/modloop-virt/kernel/drivers/md/dm-era.ko.gz
+2026-03-19 20:32:05 .....        10084        10084  boot/modloop-virt/kernel/drivers/md/dm-flakey.ko.gz
+2026-03-19 20:32:05 .....        42505        42505  boot/modloop-virt/kernel/drivers/md/dm-integrity.ko.gz
+2026-03-19 20:32:05 .....         5395         5395  boot/modloop-virt/kernel/drivers/md/dm-io-affinity.ko.gz
+2026-03-19 20:32:05 .....        12545        12545  boot/modloop-virt/kernel/drivers/md/dm-log-userspace.ko.gz
+2026-03-19 20:32:05 .....        11421        11421  boot/modloop-virt/kernel/drivers/md/dm-log-writes.ko.gz
+2026-03-19 20:32:05 .....        10660        10660  boot/modloop-virt/kernel/drivers/md/dm-log.ko.gz
+2026-03-19 20:32:05 .....        16111        16111  boot/modloop-virt/kernel/drivers/md/dm-mirror.ko.gz
+2026-03-19 20:32:05 .....        88254        88254  boot/modloop-virt/kernel/drivers/md/dm-mod.ko.gz
+2026-03-19 20:32:05 .....        22646        22646  boot/modloop-virt/kernel/drivers/md/dm-multipath.ko.gz
+2026-03-19 20:32:05 .....         5247         5247  boot/modloop-virt/kernel/drivers/md/dm-queue-length.ko.gz
+2026-03-19 20:32:05 .....        27993        27993  boot/modloop-virt/kernel/drivers/md/dm-raid.ko.gz
+2026-03-19 20:32:05 .....        10691        10691  boot/modloop-virt/kernel/drivers/md/dm-region-hash.ko.gz
+2026-03-19 20:32:05 .....         4895         4895  boot/modloop-virt/kernel/drivers/md/dm-round-robin.ko.gz
+2026-03-19 20:32:05 .....         5389         5389  boot/modloop-virt/kernel/drivers/md/dm-service-time.ko.gz
+2026-03-19 20:32:05 .....        30520        30520  boot/modloop-virt/kernel/drivers/md/dm-snapshot.ko.gz
+2026-03-19 20:32:05 .....         7117         7117  boot/modloop-virt/kernel/drivers/md/dm-switch.ko.gz
+2026-03-19 20:32:05 .....        44351        44351  boot/modloop-virt/kernel/drivers/md/dm-thin-pool.ko.gz
+2026-03-19 20:32:05 .....         5144         5144  boot/modloop-virt/kernel/drivers/md/dm-unstripe.ko.gz
+2026-03-19 20:32:05 .....        23612        23612  boot/modloop-virt/kernel/drivers/md/dm-verity.ko.gz
+2026-03-19 20:32:05 .....        21890        21890  boot/modloop-virt/kernel/drivers/md/dm-writecache.ko.gz
+2026-03-19 20:32:05 .....         3792         3792  boot/modloop-virt/kernel/drivers/md/dm-zero.ko.gz
+2026-03-19 20:32:05 .....         4909         4909  boot/modloop-virt/kernel/drivers/md/faulty.ko.gz
+2026-03-19 20:32:05 .....         5477         5477  boot/modloop-virt/kernel/drivers/md/linear.ko.gz
+2026-03-19 20:32:05 .....        15715        15715  boot/modloop-virt/kernel/drivers/md/md-cluster.ko.gz
+2026-03-19 20:32:05 .....         7783         7783  boot/modloop-virt/kernel/drivers/md/multipath.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/md/persistent-data
+2026-03-19 20:32:05 .....        43957        43957  boot/modloop-virt/kernel/drivers/md/persistent-data/dm-persistent-data.ko.gz
+2026-03-19 20:32:05 .....        11107        11107  boot/modloop-virt/kernel/drivers/md/raid0.ko.gz
+2026-03-19 20:32:05 .....        30399        30399  boot/modloop-virt/kernel/drivers/md/raid1.ko.gz
+2026-03-19 20:32:05 .....        39900        39900  boot/modloop-virt/kernel/drivers/md/raid10.ko.gz
+2026-03-19 20:32:05 .....       110286       110286  boot/modloop-virt/kernel/drivers/md/raid456.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/misc
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/misc/pvpanic
+2026-03-19 20:32:05 .....         2760         2760  boot/modloop-virt/kernel/drivers/misc/pvpanic/pvpanic-mmio.ko.gz
+2026-03-19 20:32:05 .....         2640         2640  boot/modloop-virt/kernel/drivers/misc/pvpanic/pvpanic-pci.ko.gz
+2026-03-19 20:32:05 .....         4082         4082  boot/modloop-virt/kernel/drivers/misc/pvpanic/pvpanic.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/mtd
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/mtd/chips
+2026-03-19 20:32:05 .....        20560        20560  boot/modloop-virt/kernel/drivers/mtd/chips/cfi_cmdset_0001.ko.gz
+2026-03-19 20:32:05 .....        25244        25244  boot/modloop-virt/kernel/drivers/mtd/chips/cfi_cmdset_0002.ko.gz
+2026-03-19 20:32:05 .....        14243        14243  boot/modloop-virt/kernel/drivers/mtd/chips/cfi_cmdset_0020.ko.gz
+2026-03-19 20:32:05 .....         5756         5756  boot/modloop-virt/kernel/drivers/mtd/chips/cfi_probe.ko.gz
+2026-03-19 20:32:05 .....         8537         8537  boot/modloop-virt/kernel/drivers/mtd/chips/cfi_util.ko.gz
+2026-03-19 20:32:05 .....         5353         5353  boot/modloop-virt/kernel/drivers/mtd/chips/chipreg.ko.gz
+2026-03-19 20:32:05 .....         7279         7279  boot/modloop-virt/kernel/drivers/mtd/chips/gen_probe.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/mtd/maps
+2026-03-19 20:32:05 .....         7330         7330  boot/modloop-virt/kernel/drivers/mtd/maps/physmap.ko.gz
+2026-03-19 20:32:05 .....        43922        43922  boot/modloop-virt/kernel/drivers/mtd/mtd.ko.gz
+2026-03-19 20:32:05 .....         9992         9992  boot/modloop-virt/kernel/drivers/mtd/mtd_blkdevs.ko.gz
+2026-03-19 20:32:05 .....         7827         7827  boot/modloop-virt/kernel/drivers/mtd/mtdblock.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/mtd/parsers
+2026-03-19 20:32:05 .....         7237         7237  boot/modloop-virt/kernel/drivers/mtd/parsers/ofpart.ko.gz
+2026-03-19 20:32:05 D....                            boot/modloop-virt/kernel/drivers/mtd/ubi
+2026-03-19 20:32:05 .....        95147        95147  boot/modloop-virt/kernel/drivers/mtd/ubi/ubi.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net
+2026-03-19 20:32:06 .....        12016        12016  boot/modloop-virt/kernel/drivers/net/bareudp.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/bonding
+2026-03-19 20:32:06 .....       111292       111292  boot/modloop-virt/kernel/drivers/net/bonding/bonding.ko.gz
+2026-03-19 20:32:06 .....         4839         4839  boot/modloop-virt/kernel/drivers/net/dummy.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/amazon
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/amazon/ena
+2026-03-19 20:32:06 .....        71402        71402  boot/modloop-virt/kernel/drivers/net/ethernet/amazon/ena/ena.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/google
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/google/gve
+2026-03-19 20:32:06 .....        60587        60587  boot/modloop-virt/kernel/drivers/net/ethernet/google/gve/gve.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/intel
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/intel/e1000
+2026-03-19 20:32:06 .....        84946        84946  boot/modloop-virt/kernel/drivers/net/ethernet/intel/e1000/e1000.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/intel/e1000e
+2026-03-19 20:32:06 .....       149211       149211  boot/modloop-virt/kernel/drivers/net/ethernet/intel/e1000e/e1000e.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/intel/ixgbevf
+2026-03-19 20:32:06 .....        45138        45138  boot/modloop-virt/kernel/drivers/net/ethernet/intel/ixgbevf/ixgbevf.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/mellanox
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/mellanox/mlx4
+2026-03-19 20:32:06 .....       200693       200693  boot/modloop-virt/kernel/drivers/net/ethernet/mellanox/mlx4/mlx4_core.ko.gz
+2026-03-19 20:32:06 .....        90321        90321  boot/modloop-virt/kernel/drivers/net/ethernet/mellanox/mlx4/mlx4_en.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/mellanox/mlx5
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ethernet/mellanox/mlx5/core
+2026-03-19 20:32:06 .....       509124       509124  boot/modloop-virt/kernel/drivers/net/ethernet/mellanox/mlx5/core/mlx5_core.ko.gz
+2026-03-19 20:32:06 .....        21894        21894  boot/modloop-virt/kernel/drivers/net/geneve.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/hyperv
+2026-03-19 20:32:06 .....        62712        62712  boot/modloop-virt/kernel/drivers/net/hyperv/hv_netvsc.ko.gz
+2026-03-19 20:32:06 .....         6744         6744  boot/modloop-virt/kernel/drivers/net/ifb.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ipvlan
+2026-03-19 20:32:06 .....        20107        20107  boot/modloop-virt/kernel/drivers/net/ipvlan/ipvlan.ko.gz
+2026-03-19 20:32:06 .....         5132         5132  boot/modloop-virt/kernel/drivers/net/ipvlan/ipvtap.ko.gz
+2026-03-19 20:32:06 .....        30329        30329  boot/modloop-virt/kernel/drivers/net/macsec.ko.gz
+2026-03-19 20:32:06 .....        15872        15872  boot/modloop-virt/kernel/drivers/net/macvlan.ko.gz
+2026-03-19 20:32:06 .....         5104         5104  boot/modloop-virt/kernel/drivers/net/macvtap.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/mdio
+2026-03-19 20:32:06 .....         2474         2474  boot/modloop-virt/kernel/drivers/net/mdio/acpi_mdio.ko.gz
+2026-03-19 20:32:06 .....         3808         3808  boot/modloop-virt/kernel/drivers/net/mdio/fwnode_mdio.ko.gz
+2026-03-19 20:32:06 .....         6491         6491  boot/modloop-virt/kernel/drivers/net/mdio/of_mdio.ko.gz
+2026-03-19 20:32:06 .....         8663         8663  boot/modloop-virt/kernel/drivers/net/net_failover.ko.gz
+2026-03-19 20:32:06 .....        10934        10934  boot/modloop-virt/kernel/drivers/net/netconsole.ko.gz
+2026-03-19 20:32:06 .....         3652         3652  boot/modloop-virt/kernel/drivers/net/nlmon.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/phy
+2026-03-19 20:32:06 .....        14451        14451  boot/modloop-virt/kernel/drivers/net/phy/dp83640.ko.gz
+2026-03-19 20:32:06 .....         6113         6113  boot/modloop-virt/kernel/drivers/net/phy/fixed_phy.ko.gz
+2026-03-19 20:32:06 .....        69714        69714  boot/modloop-virt/kernel/drivers/net/phy/libphy.ko.gz
+2026-03-19 20:32:06 .....         2982         2982  boot/modloop-virt/kernel/drivers/net/phy/mdio_devres.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/ppp
+2026-03-19 20:32:06 .....         6196         6196  boot/modloop-virt/kernel/drivers/net/ppp/bsd_comp.ko.gz
+2026-03-19 20:32:06 .....        10002        10002  boot/modloop-virt/kernel/drivers/net/ppp/ppp_async.ko.gz
+2026-03-19 20:32:06 .....         5418         5418  boot/modloop-virt/kernel/drivers/net/ppp/ppp_deflate.ko.gz
+2026-03-19 20:32:06 .....        27580        27580  boot/modloop-virt/kernel/drivers/net/ppp/ppp_generic.ko.gz
+2026-03-19 20:32:06 .....         6355         6355  boot/modloop-virt/kernel/drivers/net/ppp/ppp_mppe.ko.gz
+2026-03-19 20:32:06 .....         8511         8511  boot/modloop-virt/kernel/drivers/net/ppp/ppp_synctty.ko.gz
+2026-03-19 20:32:06 .....         4348         4348  boot/modloop-virt/kernel/drivers/net/ppp/pppox.ko.gz
+2026-03-19 20:32:06 .....         8997         8997  boot/modloop-virt/kernel/drivers/net/ppp/pptp.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/slip
+2026-03-19 20:32:06 .....         5439         5439  boot/modloop-virt/kernel/drivers/net/slip/slhc.ko.gz
+2026-03-19 20:32:06 .....        12836        12836  boot/modloop-virt/kernel/drivers/net/slip/slip.ko.gz
+2026-03-19 20:32:06 .....        15174        15174  boot/modloop-virt/kernel/drivers/net/tap.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/team
+2026-03-19 20:32:06 .....        24966        24966  boot/modloop-virt/kernel/drivers/net/team/team.ko.gz
+2026-03-19 20:32:06 .....         4401         4401  boot/modloop-virt/kernel/drivers/net/team/team_mode_activebackup.ko.gz
+2026-03-19 20:32:06 .....         3708         3708  boot/modloop-virt/kernel/drivers/net/team/team_mode_broadcast.ko.gz
+2026-03-19 20:32:06 .....         8240         8240  boot/modloop-virt/kernel/drivers/net/team/team_mode_loadbalance.ko.gz
+2026-03-19 20:32:06 .....         3753         3753  boot/modloop-virt/kernel/drivers/net/team/team_mode_random.ko.gz
+2026-03-19 20:32:06 .....         3771         3771  boot/modloop-virt/kernel/drivers/net/team/team_mode_roundrobin.ko.gz
+2026-03-19 20:32:06 .....        34535        34535  boot/modloop-virt/kernel/drivers/net/tun.ko.gz
+2026-03-19 20:32:06 .....        18339        18339  boot/modloop-virt/kernel/drivers/net/veth.ko.gz
+2026-03-19 20:32:06 .....        40953        40953  boot/modloop-virt/kernel/drivers/net/virtio_net.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/vmxnet3
+2026-03-19 20:32:06 .....        47954        47954  boot/modloop-virt/kernel/drivers/net/vmxnet3/vmxnet3.ko.gz
+2026-03-19 20:32:06 .....        15496        15496  boot/modloop-virt/kernel/drivers/net/vrf.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/vxlan
+2026-03-19 20:32:06 .....        66572        66572  boot/modloop-virt/kernel/drivers/net/vxlan/vxlan.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/net/wireguard
+2026-03-19 20:32:06 .....        55120        55120  boot/modloop-virt/kernel/drivers/net/wireguard/wireguard.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/nvme
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/nvme/host
+2026-03-19 20:32:06 .....        83827        83827  boot/modloop-virt/kernel/drivers/nvme/host/nvme-core.ko.gz
+2026-03-19 20:32:06 .....        18793        18793  boot/modloop-virt/kernel/drivers/nvme/host/nvme-fabrics.ko.gz
+2026-03-19 20:32:06 .....        35022        35022  boot/modloop-virt/kernel/drivers/nvme/host/nvme.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/nvme/target
+2026-03-19 20:32:06 .....        16459        16459  boot/modloop-virt/kernel/drivers/nvme/target/nvme-loop.ko.gz
+2026-03-19 20:32:06 .....        61766        61766  boot/modloop-virt/kernel/drivers/nvme/target/nvmet.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/nvmem
+2026-03-19 20:32:06 .....         3290         3290  boot/modloop-virt/kernel/drivers/nvmem/nvmem-rmem.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/pci
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/pci/controller
+2026-03-19 20:32:06 .....         2855         2855  boot/modloop-virt/kernel/drivers/pci/controller/pci-hyperv-intf.ko.gz
+2026-03-19 20:32:06 .....        26235        26235  boot/modloop-virt/kernel/drivers/pci/controller/pci-hyperv.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/pci/hotplug
+2026-03-19 20:32:06 .....         7761         7761  boot/modloop-virt/kernel/drivers/pci/hotplug/acpiphp_ibm.ko.gz
+2026-03-19 20:32:06 .....         2495         2495  boot/modloop-virt/kernel/drivers/pci/pci-pf-stub.ko.gz
+2026-03-19 20:32:06 .....         3573         3573  boot/modloop-virt/kernel/drivers/pci/pci-stub.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/perf
+2026-03-19 20:32:06 .....        10077        10077  boot/modloop-virt/kernel/drivers/perf/thunderx2_pmu.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/pps
+2026-03-19 20:32:06 .....        11076        11076  boot/modloop-virt/kernel/drivers/pps/pps_core.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/ptp
+2026-03-19 20:32:06 .....        18409        18409  boot/modloop-virt/kernel/drivers/ptp/ptp.ko.gz
+2026-03-19 20:32:06 .....         4608         4608  boot/modloop-virt/kernel/drivers/ptp/ptp_kvm.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/reset
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/reset/hisilicon
+2026-03-19 20:32:06 .....         2569         2569  boot/modloop-virt/kernel/drivers/reset/hisilicon/hi6220_reset.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/rpmsg
+2026-03-19 20:32:06 .....         8886         8886  boot/modloop-virt/kernel/drivers/rpmsg/rpmsg_core.ko.gz
+2026-03-19 20:32:06 .....         4477         4477  boot/modloop-virt/kernel/drivers/rpmsg/rpmsg_ns.ko.gz
+2026-03-19 20:32:06 .....        10982        10982  boot/modloop-virt/kernel/drivers/rpmsg/virtio_rpmsg_bus.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/rtc
+2026-03-19 20:32:06 .....         5071         5071  boot/modloop-virt/kernel/drivers/rtc/rtc-ds1286.ko.gz
+2026-03-19 20:32:06 .....         5668         5668  boot/modloop-virt/kernel/drivers/rtc/rtc-ds1511.ko.gz
+2026-03-19 20:32:06 .....         5415         5415  boot/modloop-virt/kernel/drivers/rtc/rtc-ds1553.ko.gz
+2026-03-19 20:32:06 .....         9570         9570  boot/modloop-virt/kernel/drivers/rtc/rtc-ds1685.ko.gz
+2026-03-19 20:32:06 .....         4311         4311  boot/modloop-virt/kernel/drivers/rtc/rtc-ds1742.ko.gz
+2026-03-19 20:32:06 .....         3918         3918  boot/modloop-virt/kernel/drivers/rtc/rtc-ds2404.ko.gz
+2026-03-19 20:32:06 .....         3892         3892  boot/modloop-virt/kernel/drivers/rtc/rtc-m48t35.ko.gz
+2026-03-19 20:32:06 .....         6605         6605  boot/modloop-virt/kernel/drivers/rtc/rtc-m48t59.ko.gz
+2026-03-19 20:32:06 .....         4217         4217  boot/modloop-virt/kernel/drivers/rtc/rtc-msm6242.ko.gz
+2026-03-19 20:32:06 .....         4657         4657  boot/modloop-virt/kernel/drivers/rtc/rtc-rp5c01.ko.gz
+2026-03-19 20:32:06 .....         5493         5493  boot/modloop-virt/kernel/drivers/rtc/rtc-stk17ta8.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/scsi
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/scsi/elx
+2026-03-19 20:32:06 .....       198309       198309  boot/modloop-virt/kernel/drivers/scsi/elx/efct.ko.gz
+2026-03-19 20:32:06 .....        25504        25504  boot/modloop-virt/kernel/drivers/scsi/hv_storvsc.ko.gz
+2026-03-19 20:32:06 .....        23256        23256  boot/modloop-virt/kernel/drivers/scsi/iscsi_tcp.ko.gz
+2026-03-19 20:32:06 .....        45827        45827  boot/modloop-virt/kernel/drivers/scsi/libiscsi.ko.gz
+2026-03-19 20:32:06 .....        23611        23611  boot/modloop-virt/kernel/drivers/scsi/libiscsi_tcp.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/scsi/libsas
+2026-03-19 20:32:06 .....        65966        65966  boot/modloop-virt/kernel/drivers/scsi/libsas/libsas.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/scsi/mpi3mr
+2026-03-19 20:32:06 .....       110937       110937  boot/modloop-virt/kernel/drivers/scsi/mpi3mr/mpi3mr.ko.gz
+2026-03-19 20:32:06 .....         8187         8187  boot/modloop-virt/kernel/drivers/scsi/raid_class.ko.gz
+2026-03-19 20:32:06 .....         4515         4515  boot/modloop-virt/kernel/drivers/scsi/scsi_common.ko.gz
+2026-03-19 20:32:06 .....       114440       114440  boot/modloop-virt/kernel/drivers/scsi/scsi_mod.ko.gz
+2026-03-19 20:32:06 .....        39359        39359  boot/modloop-virt/kernel/drivers/scsi/scsi_transport_fc.ko.gz
+2026-03-19 20:32:06 .....        63150        63150  boot/modloop-virt/kernel/drivers/scsi/scsi_transport_iscsi.ko.gz
+2026-03-19 20:32:06 .....        23210        23210  boot/modloop-virt/kernel/drivers/scsi/scsi_transport_sas.ko.gz
+2026-03-19 20:32:06 .....        19636        19636  boot/modloop-virt/kernel/drivers/scsi/scsi_transport_spi.ko.gz
+2026-03-19 20:32:06 .....        14334        14334  boot/modloop-virt/kernel/drivers/scsi/scsi_transport_srp.ko.gz
+2026-03-19 20:32:06 .....        34828        34828  boot/modloop-virt/kernel/drivers/scsi/sd_mod.ko.gz
+2026-03-19 20:32:06 .....        29107        29107  boot/modloop-virt/kernel/drivers/scsi/sg.ko.gz
+2026-03-19 20:32:06 .....        19050        19050  boot/modloop-virt/kernel/drivers/scsi/sr_mod.ko.gz
+2026-03-19 20:32:06 .....        15497        15497  boot/modloop-virt/kernel/drivers/scsi/virtio_scsi.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/target
+2026-03-19 20:32:06 .....       190804       190804  boot/modloop-virt/kernel/drivers/target/target_core_mod.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/thermal
+2026-03-19 20:32:06 .....         4613         4613  boot/modloop-virt/kernel/drivers/thermal/hisi_thermal.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/usb
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/usb/common
+2026-03-19 20:32:06 .....         8905         8905  boot/modloop-virt/kernel/drivers/usb/common/usb-common.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/usb/core
+2026-03-19 20:32:06 .....       175342       175342  boot/modloop-virt/kernel/drivers/usb/core/usbcore.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/usb/host
+2026-03-19 20:32:06 .....        61940        61940  boot/modloop-virt/kernel/drivers/usb/host/ehci-hcd.ko.gz
+2026-03-19 20:32:06 .....        13098        13098  boot/modloop-virt/kernel/drivers/usb/host/ehci-pci.ko.gz
+2026-03-19 20:32:06 .....        16572        16572  boot/modloop-virt/kernel/drivers/usb/host/ehci-platform.ko.gz
+2026-03-19 20:32:06 .....        40437        40437  boot/modloop-virt/kernel/drivers/usb/host/ohci-hcd.ko.gz
+2026-03-19 20:32:06 .....        11053        11053  boot/modloop-virt/kernel/drivers/usb/host/ohci-pci.ko.gz
+2026-03-19 20:32:06 .....        13230        13230  boot/modloop-virt/kernel/drivers/usb/host/ohci-platform.ko.gz
+2026-03-19 20:32:06 .....        35506        35506  boot/modloop-virt/kernel/drivers/usb/host/uhci-hcd.ko.gz
+2026-03-19 20:32:06 .....       154114       154114  boot/modloop-virt/kernel/drivers/usb/host/xhci-hcd.ko.gz
+2026-03-19 20:32:06 .....        18128        18128  boot/modloop-virt/kernel/drivers/usb/host/xhci-pci.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/usb/mon
+2026-03-19 20:32:06 .....        23019        23019  boot/modloop-virt/kernel/drivers/usb/mon/usbmon.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/usb/storage
+2026-03-19 20:32:06 .....        24132        24132  boot/modloop-virt/kernel/drivers/usb/storage/uas.ko.gz
+2026-03-19 20:32:06 .....        51010        51010  boot/modloop-virt/kernel/drivers/usb/storage/usb-storage.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/vdpa
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/vdpa/ifcvf
+2026-03-19 20:32:06 .....        13697        13697  boot/modloop-virt/kernel/drivers/vdpa/ifcvf/ifcvf.ko.gz
+2026-03-19 20:32:06 .....        13694        13694  boot/modloop-virt/kernel/drivers/vdpa/vdpa.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/vdpa/vdpa_user
+2026-03-19 20:32:06 .....        24715        24715  boot/modloop-virt/kernel/drivers/vdpa/vdpa_user/vduse.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/vdpa/virtio_pci
+2026-03-19 20:32:06 .....         8785         8785  boot/modloop-virt/kernel/drivers/vdpa/virtio_pci/vp_vdpa.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/vhost
+2026-03-19 20:32:06 .....        27454        27454  boot/modloop-virt/kernel/drivers/vhost/vhost.ko.gz
+2026-03-19 20:32:06 .....         4855         4855  boot/modloop-virt/kernel/drivers/vhost/vhost_iotlb.ko.gz
+2026-03-19 20:32:06 .....        17098        17098  boot/modloop-virt/kernel/drivers/vhost/vhost_net.ko.gz
+2026-03-19 20:32:06 .....        32103        32103  boot/modloop-virt/kernel/drivers/vhost/vhost_scsi.ko.gz
+2026-03-19 20:32:06 .....        15760        15760  boot/modloop-virt/kernel/drivers/vhost/vhost_vdpa.ko.gz
+2026-03-19 20:32:06 .....        13264        13264  boot/modloop-virt/kernel/drivers/vhost/vhost_vsock.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/video
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/video/backlight
+2026-03-19 20:32:06 .....        11908        11908  boot/modloop-virt/kernel/drivers/video/backlight/backlight.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/video/fbdev
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/video/fbdev/core
+2026-03-19 20:32:06 .....        54430        54430  boot/modloop-virt/kernel/drivers/video/fbdev/core/fb.ko.gz
+2026-03-19 20:32:06 .....         5350         5350  boot/modloop-virt/kernel/drivers/video/fbdev/core/fb_io_fops.ko.gz
+2026-03-19 20:32:06 .....         5176         5176  boot/modloop-virt/kernel/drivers/video/fbdev/core/fb_sys_fops.ko.gz
+2026-03-19 20:32:06 .....         5685         5685  boot/modloop-virt/kernel/drivers/video/fbdev/core/syscopyarea.ko.gz
+2026-03-19 20:32:06 .....         6292         6292  boot/modloop-virt/kernel/drivers/video/fbdev/core/sysfillrect.ko.gz
+2026-03-19 20:32:06 .....         5780         5780  boot/modloop-virt/kernel/drivers/video/fbdev/core/sysimgblt.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/drivers/virtio
+2026-03-19 20:32:06 .....        11186        11186  boot/modloop-virt/kernel/drivers/virtio/virtio_balloon.ko.gz
+2026-03-19 20:32:06 .....         2421         2421  boot/modloop-virt/kernel/drivers/virtio/virtio_dma_buf.ko.gz
+2026-03-19 20:32:06 .....         6601         6601  boot/modloop-virt/kernel/drivers/virtio/virtio_input.ko.gz
+2026-03-19 20:32:06 .....        18655        18655  boot/modloop-virt/kernel/drivers/virtio/virtio_mem.ko.gz
+2026-03-19 20:32:06 .....         8815         8815  boot/modloop-virt/kernel/drivers/virtio/virtio_mmio.ko.gz
+2026-03-19 20:32:06 .....         7785         7785  boot/modloop-virt/kernel/drivers/virtio/virtio_vdpa.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/9p
+2026-03-19 20:32:06 .....        42629        42629  boot/modloop-virt/kernel/fs/9p/9p.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/autofs
+2026-03-19 20:32:06 .....        26335        26335  boot/modloop-virt/kernel/fs/autofs/autofs4.ko.gz
+2026-03-19 20:32:07 .....         9794         9794  boot/modloop-virt/kernel/fs/binfmt_misc.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/btrfs
+2026-03-19 20:32:06 .....       809645       809645  boot/modloop-virt/kernel/fs/btrfs/btrfs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/cachefiles
+2026-03-19 20:32:06 .....        57510        57510  boot/modloop-virt/kernel/fs/cachefiles/cachefiles.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/ceph
+2026-03-19 20:32:06 .....       288789       288789  boot/modloop-virt/kernel/fs/ceph/ceph.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/configfs
+2026-03-19 20:32:06 .....        25274        25274  boot/modloop-virt/kernel/fs/configfs/configfs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/cramfs
+2026-03-19 20:32:06 .....         5337         5337  boot/modloop-virt/kernel/fs/cramfs/cramfs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/dlm
+2026-03-19 20:32:06 .....       149506       149506  boot/modloop-virt/kernel/fs/dlm/dlm.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/ecryptfs
+2026-03-19 20:32:06 .....        54659        54659  boot/modloop-virt/kernel/fs/ecryptfs/ecryptfs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/efivarfs
+2026-03-19 20:32:06 .....        10857        10857  boot/modloop-virt/kernel/fs/efivarfs/efivarfs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/exfat
+2026-03-19 20:32:06 .....        48199        48199  boot/modloop-virt/kernel/fs/exfat/exfat.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/ext4
+2026-03-19 20:32:06 .....       441580       441580  boot/modloop-virt/kernel/fs/ext4/ext4.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/f2fs
+2026-03-19 20:32:06 .....       385745       385745  boot/modloop-virt/kernel/fs/f2fs/f2fs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/fat
+2026-03-19 20:32:06 .....        48455        48455  boot/modloop-virt/kernel/fs/fat/fat.ko.gz
+2026-03-19 20:32:06 .....         8531         8531  boot/modloop-virt/kernel/fs/fat/msdos.ko.gz
+2026-03-19 20:32:06 .....        11926        11926  boot/modloop-virt/kernel/fs/fat/vfat.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/fscache
+2026-03-19 20:32:06 .....        44753        44753  boot/modloop-virt/kernel/fs/fscache/fscache.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/fuse
+2026-03-19 20:32:06 .....         9705         9705  boot/modloop-virt/kernel/fs/fuse/cuse.ko.gz
+2026-03-19 20:32:06 .....        88422        88422  boot/modloop-virt/kernel/fs/fuse/fuse.ko.gz
+2026-03-19 20:32:06 .....        18048        18048  boot/modloop-virt/kernel/fs/fuse/virtiofs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/gfs2
+2026-03-19 20:32:06 .....       224676       224676  boot/modloop-virt/kernel/fs/gfs2/gfs2.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/isofs
+2026-03-19 20:32:06 .....        25097        25097  boot/modloop-virt/kernel/fs/isofs/isofs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/jbd2
+2026-03-19 20:32:06 .....        76845        76845  boot/modloop-virt/kernel/fs/jbd2/jbd2.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/jfs
+2026-03-19 20:32:06 .....       124852       124852  boot/modloop-virt/kernel/fs/jfs/jfs.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/lockd
+2026-03-19 20:32:06 .....        54226        54226  boot/modloop-virt/kernel/fs/lockd/lockd.ko.gz
+2026-03-19 20:32:06 .....         7274         7274  boot/modloop-virt/kernel/fs/mbcache.ko.gz
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/netfs
+2026-03-19 20:32:06 .....        26093        26093  boot/modloop-virt/kernel/fs/netfs/netfs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nfs
+2026-03-19 20:32:06 D....                            boot/modloop-virt/kernel/fs/nfs/blocklayout
+2026-03-19 20:32:06 .....        25630        25630  boot/modloop-virt/kernel/fs/nfs/blocklayout/blocklayoutdriver.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nfs/filelayout
+2026-03-19 20:32:07 .....        20057        20057  boot/modloop-virt/kernel/fs/nfs/filelayout/nfs_layout_nfsv41_files.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nfs/flexfilelayout
+2026-03-19 20:32:07 .....        35591        35591  boot/modloop-virt/kernel/fs/nfs/flexfilelayout/nfs_layout_flexfiles.ko.gz
+2026-03-19 20:32:07 .....       206145       206145  boot/modloop-virt/kernel/fs/nfs/nfs.ko.gz
+2026-03-19 20:32:07 .....        16513        16513  boot/modloop-virt/kernel/fs/nfs/nfsv2.ko.gz
+2026-03-19 20:32:07 .....        22850        22850  boot/modloop-virt/kernel/fs/nfs/nfsv3.ko.gz
+2026-03-19 20:32:07 .....       330519       330519  boot/modloop-virt/kernel/fs/nfs/nfsv4.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nfs_common
+2026-03-19 20:32:07 .....         3983         3983  boot/modloop-virt/kernel/fs/nfs_common/grace.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nfsd
+2026-03-19 20:32:07 .....       299057       299057  boot/modloop-virt/kernel/fs/nfsd/nfsd.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nilfs2
+2026-03-19 20:32:07 .....       137420       137420  boot/modloop-virt/kernel/fs/nilfs2/nilfs2.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/nls
+2026-03-19 20:32:07 .....         3401         3401  boot/modloop-virt/kernel/fs/nls/mac-celtic.ko.gz
+2026-03-19 20:32:07 .....         3386         3386  boot/modloop-virt/kernel/fs/nls/mac-centeuro.ko.gz
+2026-03-19 20:32:07 .....         3410         3410  boot/modloop-virt/kernel/fs/nls/mac-croatian.ko.gz
+2026-03-19 20:32:07 .....         3348         3348  boot/modloop-virt/kernel/fs/nls/mac-cyrillic.ko.gz
+2026-03-19 20:32:07 .....         3402         3402  boot/modloop-virt/kernel/fs/nls/mac-gaelic.ko.gz
+2026-03-19 20:32:07 .....         3352         3352  boot/modloop-virt/kernel/fs/nls/mac-greek.ko.gz
+2026-03-19 20:32:07 .....         3397         3397  boot/modloop-virt/kernel/fs/nls/mac-iceland.ko.gz
+2026-03-19 20:32:07 .....         3411         3411  boot/modloop-virt/kernel/fs/nls/mac-inuit.ko.gz
+2026-03-19 20:32:07 .....         3418         3418  boot/modloop-virt/kernel/fs/nls/mac-roman.ko.gz
+2026-03-19 20:32:07 .....         3410         3410  boot/modloop-virt/kernel/fs/nls/mac-romanian.ko.gz
+2026-03-19 20:32:07 .....         3399         3399  boot/modloop-virt/kernel/fs/nls/mac-turkish.ko.gz
+2026-03-19 20:32:07 .....         2847         2847  boot/modloop-virt/kernel/fs/nls/nls_ascii.ko.gz
+2026-03-19 20:32:07 .....         3513         3513  boot/modloop-virt/kernel/fs/nls/nls_cp1250.ko.gz
+2026-03-19 20:32:07 .....         3414         3414  boot/modloop-virt/kernel/fs/nls/nls_cp1251.ko.gz
+2026-03-19 20:32:07 .....         3349         3349  boot/modloop-virt/kernel/fs/nls/nls_cp1255.ko.gz
+2026-03-19 20:32:07 .....         3586         3586  boot/modloop-virt/kernel/fs/nls/nls_cp437.ko.gz
+2026-03-19 20:32:07 .....         3464         3464  boot/modloop-virt/kernel/fs/nls/nls_cp737.ko.gz
+2026-03-19 20:32:07 .....         3608         3608  boot/modloop-virt/kernel/fs/nls/nls_cp775.ko.gz
+2026-03-19 20:32:07 .....         3522         3522  boot/modloop-virt/kernel/fs/nls/nls_cp850.ko.gz
+2026-03-19 20:32:07 .....         3605         3605  boot/modloop-virt/kernel/fs/nls/nls_cp852.ko.gz
+2026-03-19 20:32:07 .....         3584         3584  boot/modloop-virt/kernel/fs/nls/nls_cp855.ko.gz
+2026-03-19 20:32:07 .....         3504         3504  boot/modloop-virt/kernel/fs/nls/nls_cp857.ko.gz
+2026-03-19 20:32:07 .....         3584         3584  boot/modloop-virt/kernel/fs/nls/nls_cp860.ko.gz
+2026-03-19 20:32:07 .....         3599         3599  boot/modloop-virt/kernel/fs/nls/nls_cp861.ko.gz
+2026-03-19 20:32:07 .....         3562         3562  boot/modloop-virt/kernel/fs/nls/nls_cp862.ko.gz
+2026-03-19 20:32:07 .....         3602         3602  boot/modloop-virt/kernel/fs/nls/nls_cp863.ko.gz
+2026-03-19 20:32:07 .....         3521         3521  boot/modloop-virt/kernel/fs/nls/nls_cp864.ko.gz
+2026-03-19 20:32:07 .....         3589         3589  boot/modloop-virt/kernel/fs/nls/nls_cp865.ko.gz
+2026-03-19 20:32:07 .....         3441         3441  boot/modloop-virt/kernel/fs/nls/nls_cp866.ko.gz
+2026-03-19 20:32:07 .....         3486         3486  boot/modloop-virt/kernel/fs/nls/nls_cp869.ko.gz
+2026-03-19 20:32:07 .....         3225         3225  boot/modloop-virt/kernel/fs/nls/nls_cp874.ko.gz
+2026-03-19 20:32:07 .....        39403        39403  boot/modloop-virt/kernel/fs/nls/nls_cp932.ko.gz
+2026-03-19 20:32:07 .....        88329        88329  boot/modloop-virt/kernel/fs/nls/nls_cp936.ko.gz
+2026-03-19 20:32:07 .....        78806        78806  boot/modloop-virt/kernel/fs/nls/nls_cp949.ko.gz
+2026-03-19 20:32:07 .....        64707        64707  boot/modloop-virt/kernel/fs/nls/nls_cp950.ko.gz
+2026-03-19 20:32:07 .....         5998         5998  boot/modloop-virt/kernel/fs/nls/nls_euc-jp.ko.gz
+2026-03-19 20:32:07 .....         3214         3214  boot/modloop-virt/kernel/fs/nls/nls_iso8859-1.ko.gz
+2026-03-19 20:32:07 .....         3443         3443  boot/modloop-virt/kernel/fs/nls/nls_iso8859-13.ko.gz
+2026-03-19 20:32:07 .....         3378         3378  boot/modloop-virt/kernel/fs/nls/nls_iso8859-14.ko.gz
+2026-03-19 20:32:07 .....         3310         3310  boot/modloop-virt/kernel/fs/nls/nls_iso8859-15.ko.gz
+2026-03-19 20:32:07 .....         3446         3446  boot/modloop-virt/kernel/fs/nls/nls_iso8859-2.ko.gz
+2026-03-19 20:32:07 .....         3365         3365  boot/modloop-virt/kernel/fs/nls/nls_iso8859-3.ko.gz
+2026-03-19 20:32:07 .....         3429         3429  boot/modloop-virt/kernel/fs/nls/nls_iso8859-4.ko.gz
+2026-03-19 20:32:07 .....         3301         3301  boot/modloop-virt/kernel/fs/nls/nls_iso8859-5.ko.gz
+2026-03-19 20:32:07 .....         3153         3153  boot/modloop-virt/kernel/fs/nls/nls_iso8859-6.ko.gz
+2026-03-19 20:32:07 .....         3333         3333  boot/modloop-virt/kernel/fs/nls/nls_iso8859-7.ko.gz
+2026-03-19 20:32:07 .....         3260         3260  boot/modloop-virt/kernel/fs/nls/nls_iso8859-9.ko.gz
+2026-03-19 20:32:07 .....         3457         3457  boot/modloop-virt/kernel/fs/nls/nls_koi8-r.ko.gz
+2026-03-19 20:32:07 .....         2692         2692  boot/modloop-virt/kernel/fs/nls/nls_koi8-ru.ko.gz
+2026-03-19 20:32:07 .....         3493         3493  boot/modloop-virt/kernel/fs/nls/nls_koi8-u.ko.gz
+2026-03-19 20:32:07 .....         2229         2229  boot/modloop-virt/kernel/fs/nls/nls_ucs2_utils.ko.gz
+2026-03-19 20:32:07 .....         2635         2635  boot/modloop-virt/kernel/fs/nls/nls_utf8.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/ntfs
+2026-03-19 20:32:07 .....       133760       133760  boot/modloop-virt/kernel/fs/ntfs/ntfs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/ntfs3
+2026-03-19 20:32:07 .....       156839       156839  boot/modloop-virt/kernel/fs/ntfs3/ntfs3.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/ocfs2
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/ocfs2/cluster
+2026-03-19 20:32:07 .....        62444        62444  boot/modloop-virt/kernel/fs/ocfs2/cluster/ocfs2_nodemanager.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/ocfs2/dlm
+2026-03-19 20:32:07 .....       118364       118364  boot/modloop-virt/kernel/fs/ocfs2/dlm/ocfs2_dlm.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/ocfs2/dlmfs
+2026-03-19 20:32:07 .....        14617        14617  boot/modloop-virt/kernel/fs/ocfs2/dlmfs/ocfs2_dlmfs.ko.gz
+2026-03-19 20:32:07 .....       531194       531194  boot/modloop-virt/kernel/fs/ocfs2/ocfs2.ko.gz
+2026-03-19 20:32:07 .....         6728         6728  boot/modloop-virt/kernel/fs/ocfs2/ocfs2_stack_o2cb.ko.gz
+2026-03-19 20:32:07 .....        10445        10445  boot/modloop-virt/kernel/fs/ocfs2/ocfs2_stack_user.ko.gz
+2026-03-19 20:32:07 .....        10532        10532  boot/modloop-virt/kernel/fs/ocfs2/ocfs2_stackglue.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/overlayfs
+2026-03-19 20:32:07 .....        85763        85763  boot/modloop-virt/kernel/fs/overlayfs/overlay.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/pstore
+2026-03-19 20:32:07 .....        16147        16147  boot/modloop-virt/kernel/fs/pstore/ramoops.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/quota
+2026-03-19 20:32:07 .....         9886         9886  boot/modloop-virt/kernel/fs/quota/quota_tree.ko.gz
+2026-03-19 20:32:07 .....         4431         4431  boot/modloop-virt/kernel/fs/quota/quota_v1.ko.gz
+2026-03-19 20:32:07 .....         6366         6366  boot/modloop-virt/kernel/fs/quota/quota_v2.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/reiserfs
+2026-03-19 20:32:07 .....       161673       161673  boot/modloop-virt/kernel/fs/reiserfs/reiserfs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/romfs
+2026-03-19 20:32:07 .....         9231         9231  boot/modloop-virt/kernel/fs/romfs/romfs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/smb
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/smb/client
+2026-03-19 20:32:07 .....       621715       621715  boot/modloop-virt/kernel/fs/smb/client/cifs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/smb/common
+2026-03-19 20:32:07 .....         2254         2254  boot/modloop-virt/kernel/fs/smb/common/cifs_arc4.ko.gz
+2026-03-19 20:32:07 .....         3540         3540  boot/modloop-virt/kernel/fs/smb/common/cifs_md4.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/smb/server
+2026-03-19 20:32:07 .....       153750       153750  boot/modloop-virt/kernel/fs/smb/server/ksmbd.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/squashfs
+2026-03-19 20:32:07 .....        35755        35755  boot/modloop-virt/kernel/fs/squashfs/squashfs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/udf
+2026-03-19 20:32:07 .....        72850        72850  boot/modloop-virt/kernel/fs/udf/udf.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/fs/xfs
+2026-03-19 20:32:07 .....       869039       869039  boot/modloop-virt/kernel/fs/xfs/xfs.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib
+2026-03-19 20:32:07 .....         3329         3329  boot/modloop-virt/kernel/lib/crc-ccitt.ko.gz
+2026-03-19 20:32:07 .....         2596         2596  boot/modloop-virt/kernel/lib/crc-itu-t.ko.gz
+2026-03-19 20:32:07 .....         2511         2511  boot/modloop-virt/kernel/lib/crc16.ko.gz
+2026-03-19 20:32:07 .....         4083         4083  boot/modloop-virt/kernel/lib/crc64-rocksoft.ko.gz
+2026-03-19 20:32:07 .....         6401         6401  boot/modloop-virt/kernel/lib/crc64.ko.gz
+2026-03-19 20:32:07 .....         2305         2305  boot/modloop-virt/kernel/lib/crc7.ko.gz
+2026-03-19 20:32:07 .....         2360         2360  boot/modloop-virt/kernel/lib/crc8.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib/crypto
+2026-03-19 20:32:07 .....         2247         2247  boot/modloop-virt/kernel/lib/crypto/libarc4.ko.gz
+2026-03-19 20:32:07 .....         2223         2223  boot/modloop-virt/kernel/lib/crypto/libchacha.ko.gz
+2026-03-19 20:32:07 .....         5966         5966  boot/modloop-virt/kernel/lib/crypto/libchacha20poly1305.ko.gz
+2026-03-19 20:32:07 .....        19783        19783  boot/modloop-virt/kernel/lib/crypto/libcurve25519-generic.ko.gz
+2026-03-19 20:32:07 .....         2081         2081  boot/modloop-virt/kernel/lib/crypto/libcurve25519.ko.gz
+2026-03-19 20:32:07 .....         9997         9997  boot/modloop-virt/kernel/lib/crypto/libdes.ko.gz
+2026-03-19 20:32:07 .....         3624         3624  boot/modloop-virt/kernel/lib/crypto/libpoly1305.ko.gz
+2026-03-19 20:32:07 .....         2906         2906  boot/modloop-virt/kernel/lib/libcrc32c.ko.gz
+2026-03-19 20:32:07 .....         7240         7240  boot/modloop-virt/kernel/lib/lru_cache.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib/lz4
+2026-03-19 20:32:07 .....        11383        11383  boot/modloop-virt/kernel/lib/lz4/lz4_compress.ko.gz
+2026-03-19 20:32:07 .....         8313         8313  boot/modloop-virt/kernel/lib/lz4/lz4hc_compress.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib/math
+2026-03-19 20:32:07 .....         2276         2276  boot/modloop-virt/kernel/lib/math/cordic.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib/raid6
+2026-03-19 20:32:07 .....        84200        84200  boot/modloop-virt/kernel/lib/raid6/raid6_pq.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib/reed_solomon
+2026-03-19 20:32:07 .....         7225         7225  boot/modloop-virt/kernel/lib/reed_solomon/reed_solomon.ko.gz
+2026-03-19 20:32:07 .....         3425         3425  boot/modloop-virt/kernel/lib/ts_bm.ko.gz
+2026-03-19 20:32:07 .....         3894         3894  boot/modloop-virt/kernel/lib/ts_fsm.ko.gz
+2026-03-19 20:32:07 .....         3294         3294  boot/modloop-virt/kernel/lib/ts_kmp.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/lib/zstd
+2026-03-19 20:32:07 .....       172246       172246  boot/modloop-virt/kernel/lib/zstd/zstd_compress.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/802
+2026-03-19 20:32:07 .....         8105         8105  boot/modloop-virt/kernel/net/802/garp.ko.gz
+2026-03-19 20:32:07 .....         9431         9431  boot/modloop-virt/kernel/net/802/mrp.ko.gz
+2026-03-19 20:32:07 .....         2824         2824  boot/modloop-virt/kernel/net/802/p8022.ko.gz
+2026-03-19 20:32:07 .....         4405         4405  boot/modloop-virt/kernel/net/802/psnap.ko.gz
+2026-03-19 20:32:07 .....         3292         3292  boot/modloop-virt/kernel/net/802/stp.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/8021q
+2026-03-19 20:32:07 .....        20689        20689  boot/modloop-virt/kernel/net/8021q/8021q.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/9p
+2026-03-19 20:32:07 .....        42522        42522  boot/modloop-virt/kernel/net/9p/9pnet.ko.gz
+2026-03-19 20:32:07 .....        10874        10874  boot/modloop-virt/kernel/net/9p/9pnet_fd.ko.gz
+2026-03-19 20:32:07 .....        10293        10293  boot/modloop-virt/kernel/net/9p/9pnet_virtio.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/bridge
+2026-03-19 20:32:07 .....        14110        14110  boot/modloop-virt/kernel/net/bridge/br_netfilter.ko.gz
+2026-03-19 20:32:07 .....       145850       145850  boot/modloop-virt/kernel/net/bridge/bridge.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/bridge/netfilter
+2026-03-19 20:32:07 .....         3181         3181  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_802_3.ko.gz
+2026-03-19 20:32:07 .....         4840         4840  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_among.ko.gz
+2026-03-19 20:32:07 .....         3951         3951  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_arp.ko.gz
+2026-03-19 20:32:07 .....         3652         3652  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_arpreply.ko.gz
+2026-03-19 20:32:07 .....         3264         3264  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_dnat.ko.gz
+2026-03-19 20:32:07 .....         3972         3972  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_ip.ko.gz
+2026-03-19 20:32:07 .....         4054         4054  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_ip6.ko.gz
+2026-03-19 20:32:07 .....         3751         3751  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_limit.ko.gz
+2026-03-19 20:32:07 .....         5135         5135  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_log.ko.gz
+2026-03-19 20:32:07 .....         2948         2948  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_mark.ko.gz
+2026-03-19 20:32:07 .....         2917         2917  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_mark_m.ko.gz
+2026-03-19 20:32:07 .....         3219         3219  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_nflog.ko.gz
+2026-03-19 20:32:07 .....         2884         2884  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_pkttype.ko.gz
+2026-03-19 20:32:07 .....         3170         3170  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_redirect.ko.gz
+2026-03-19 20:32:07 .....         3299         3299  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_snat.ko.gz
+2026-03-19 20:32:07 .....         4365         4365  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_stp.ko.gz
+2026-03-19 20:32:07 .....         4569         4569  boot/modloop-virt/kernel/net/bridge/netfilter/ebt_vlan.ko.gz
+2026-03-19 20:32:07 .....         4039         4039  boot/modloop-virt/kernel/net/bridge/netfilter/ebtable_broute.ko.gz
+2026-03-19 20:32:07 .....         3590         3590  boot/modloop-virt/kernel/net/bridge/netfilter/ebtable_filter.ko.gz
+2026-03-19 20:32:07 .....         3590         3590  boot/modloop-virt/kernel/net/bridge/netfilter/ebtable_nat.ko.gz
+2026-03-19 20:32:07 .....        17698        17698  boot/modloop-virt/kernel/net/bridge/netfilter/ebtables.ko.gz
+2026-03-19 20:32:07 .....         6452         6452  boot/modloop-virt/kernel/net/bridge/netfilter/nf_conntrack_bridge.ko.gz
+2026-03-19 20:32:07 .....         4761         4761  boot/modloop-virt/kernel/net/bridge/netfilter/nft_reject_bridge.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/ceph
+2026-03-19 20:32:07 .....       238061       238061  boot/modloop-virt/kernel/net/ceph/libceph.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/core
+2026-03-19 20:32:07 .....         5709         5709  boot/modloop-virt/kernel/net/core/failover.ko.gz
+2026-03-19 20:32:07 .....        32752        32752  boot/modloop-virt/kernel/net/core/pktgen.ko.gz
+2026-03-19 20:32:07 .....         5405         5405  boot/modloop-virt/kernel/net/core/selftests.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/dccp
+2026-03-19 20:32:07 .....        69077        69077  boot/modloop-virt/kernel/net/dccp/dccp.ko.gz
+2026-03-19 20:32:07 .....         4500         4500  boot/modloop-virt/kernel/net/dccp/dccp_diag.ko.gz
+2026-03-19 20:32:07 .....        15753        15753  boot/modloop-virt/kernel/net/dccp/dccp_ipv4.ko.gz
+2026-03-19 20:32:07 .....        16028        16028  boot/modloop-virt/kernel/net/dccp/dccp_ipv6.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/dns_resolver
+2026-03-19 20:32:07 .....         7636         7636  boot/modloop-virt/kernel/net/dns_resolver/dns_resolver.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/ife
+2026-03-19 20:32:07 .....         3308         3308  boot/modloop-virt/kernel/net/ife/ife.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/ipv4
+2026-03-19 20:32:07 .....         7494         7494  boot/modloop-virt/kernel/net/ipv4/ah4.ko.gz
+2026-03-19 20:32:07 .....        11945        11945  boot/modloop-virt/kernel/net/ipv4/esp4.ko.gz
+2026-03-19 20:32:07 .....        12996        12996  boot/modloop-virt/kernel/net/ipv4/fou.ko.gz
+2026-03-19 20:32:07 .....         4675         4675  boot/modloop-virt/kernel/net/ipv4/gre.ko.gz
+2026-03-19 20:32:07 .....        13716        13716  boot/modloop-virt/kernel/net/ipv4/inet_diag.ko.gz
+2026-03-19 20:32:07 .....        15964        15964  boot/modloop-virt/kernel/net/ipv4/ip_gre.ko.gz
+2026-03-19 20:32:07 .....        16058        16058  boot/modloop-virt/kernel/net/ipv4/ip_tunnel.ko.gz
+2026-03-19 20:32:07 .....         8840         8840  boot/modloop-virt/kernel/net/ipv4/ip_vti.ko.gz
+2026-03-19 20:32:07 .....         4270         4270  boot/modloop-virt/kernel/net/ipv4/ipcomp.ko.gz
+2026-03-19 20:32:07 .....         7417         7417  boot/modloop-virt/kernel/net/ipv4/ipip.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/ipv4/netfilter
+2026-03-19 20:32:07 .....        12589        12589  boot/modloop-virt/kernel/net/ipv4/netfilter/arp_tables.ko.gz
+2026-03-19 20:32:07 .....         3345         3345  boot/modloop-virt/kernel/net/ipv4/netfilter/arpt_mangle.ko.gz
+2026-03-19 20:32:07 .....         3719         3719  boot/modloop-virt/kernel/net/ipv4/netfilter/arptable_filter.ko.gz
+2026-03-19 20:32:07 .....        13924        13924  boot/modloop-virt/kernel/net/ipv4/netfilter/ip_tables.ko.gz
+2026-03-19 20:32:07 .....         4106         4106  boot/modloop-virt/kernel/net/ipv4/netfilter/ipt_ECN.ko.gz
+2026-03-19 20:32:07 .....         3864         3864  boot/modloop-virt/kernel/net/ipv4/netfilter/ipt_REJECT.ko.gz
+2026-03-19 20:32:07 .....         4415         4415  boot/modloop-virt/kernel/net/ipv4/netfilter/ipt_SYNPROXY.ko.gz
+2026-03-19 20:32:07 .....         3954         3954  boot/modloop-virt/kernel/net/ipv4/netfilter/ipt_ah.ko.gz
+2026-03-19 20:32:07 .....         4181         4181  boot/modloop-virt/kernel/net/ipv4/netfilter/ipt_rpfilter.ko.gz
+2026-03-19 20:32:07 .....         4444         4444  boot/modloop-virt/kernel/net/ipv4/netfilter/iptable_filter.ko.gz
+2026-03-19 20:32:07 .....         3878         3878  boot/modloop-virt/kernel/net/ipv4/netfilter/iptable_mangle.ko.gz
+2026-03-19 20:32:07 .....         3962         3962  boot/modloop-virt/kernel/net/ipv4/netfilter/iptable_nat.ko.gz
+2026-03-19 20:32:07 .....         3914         3914  boot/modloop-virt/kernel/net/ipv4/netfilter/iptable_raw.ko.gz
+2026-03-19 20:32:07 .....         3455         3455  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_defrag_ipv4.ko.gz
+2026-03-19 20:32:07 .....         2993         2993  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_dup_ipv4.ko.gz
+2026-03-19 20:32:07 .....         8881         8881  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_nat_h323.ko.gz
+2026-03-19 20:32:07 .....         7227         7227  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_nat_pptp.ko.gz
+2026-03-19 20:32:07 .....         4717         4717  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_nat_snmp_basic.ko.gz
+2026-03-19 20:32:07 .....         5578         5578  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_reject_ipv4.ko.gz
+2026-03-19 20:32:07 .....         3039         3039  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_socket_ipv4.ko.gz
+2026-03-19 20:32:07 .....         4086         4086  boot/modloop-virt/kernel/net/ipv4/netfilter/nf_tproxy_ipv4.ko.gz
+2026-03-19 20:32:07 .....         4576         4576  boot/modloop-virt/kernel/net/ipv4/netfilter/nft_dup_ipv4.ko.gz
+2026-03-19 20:32:07 .....         5960         5960  boot/modloop-virt/kernel/net/ipv4/netfilter/nft_fib_ipv4.ko.gz
+2026-03-19 20:32:07 .....         4398         4398  boot/modloop-virt/kernel/net/ipv4/netfilter/nft_reject_ipv4.ko.gz
+2026-03-19 20:32:07 .....         8023         8023  boot/modloop-virt/kernel/net/ipv4/tcp_bbr.ko.gz
+2026-03-19 20:32:07 .....         4036         4036  boot/modloop-virt/kernel/net/ipv4/tcp_bic.ko.gz
+2026-03-19 20:32:07 .....         5738         5738  boot/modloop-virt/kernel/net/ipv4/tcp_cdg.ko.gz
+2026-03-19 20:32:07 .....         4717         4717  boot/modloop-virt/kernel/net/ipv4/tcp_dctcp.ko.gz
+2026-03-19 20:32:07 .....         4257         4257  boot/modloop-virt/kernel/net/ipv4/tcp_diag.ko.gz
+2026-03-19 20:32:07 .....         3333         3333  boot/modloop-virt/kernel/net/ipv4/tcp_highspeed.ko.gz
+2026-03-19 20:32:07 .....         4339         4339  boot/modloop-virt/kernel/net/ipv4/tcp_htcp.ko.gz
+2026-03-19 20:32:07 .....         3605         3605  boot/modloop-virt/kernel/net/ipv4/tcp_hybla.ko.gz
+2026-03-19 20:32:07 .....         4248         4248  boot/modloop-virt/kernel/net/ipv4/tcp_illinois.ko.gz
+2026-03-19 20:32:07 .....         3496         3496  boot/modloop-virt/kernel/net/ipv4/tcp_lp.ko.gz
+2026-03-19 20:32:07 .....         5908         5908  boot/modloop-virt/kernel/net/ipv4/tcp_nv.ko.gz
+2026-03-19 20:32:07 .....         2514         2514  boot/modloop-virt/kernel/net/ipv4/tcp_scalable.ko.gz
+2026-03-19 20:32:07 .....         4662         4662  boot/modloop-virt/kernel/net/ipv4/tcp_vegas.ko.gz
+2026-03-19 20:32:07 .....         3271         3271  boot/modloop-virt/kernel/net/ipv4/tcp_veno.ko.gz
+2026-03-19 20:32:07 .....         3789         3789  boot/modloop-virt/kernel/net/ipv4/tcp_westwood.ko.gz
+2026-03-19 20:32:07 .....         3359         3359  boot/modloop-virt/kernel/net/ipv4/tcp_yeah.ko.gz
+2026-03-19 20:32:07 .....         4328         4328  boot/modloop-virt/kernel/net/ipv4/tunnel4.ko.gz
+2026-03-19 20:32:07 .....         4799         4799  boot/modloop-virt/kernel/net/ipv4/udp_diag.ko.gz
+2026-03-19 20:32:07 .....        12321        12321  boot/modloop-virt/kernel/net/ipv4/udp_tunnel.ko.gz
+2026-03-19 20:32:07 .....         3466         3466  boot/modloop-virt/kernel/net/ipv4/xfrm4_tunnel.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/ipv6
+2026-03-19 20:32:08 .....         8556         8556  boot/modloop-virt/kernel/net/ipv6/ah6.ko.gz
+2026-03-19 20:32:07 .....        12372        12372  boot/modloop-virt/kernel/net/ipv6/esp6.ko.gz
+2026-03-19 20:32:07 .....         3863         3863  boot/modloop-virt/kernel/net/ipv6/fou6.ko.gz
+2026-03-19 20:32:07 D....                            boot/modloop-virt/kernel/net/ipv6/ila
+2026-03-19 20:32:07 .....        12664        12664  boot/modloop-virt/kernel/net/ipv6/ila/ila.ko.gz
+2026-03-19 20:32:07 .....        20976        20976  boot/modloop-virt/kernel/net/ipv6/ip6_gre.ko.gz
+2026-03-19 20:32:07 .....        22446        22446  boot/modloop-virt/kernel/net/ipv6/ip6_tunnel.ko.gz
+2026-03-19 20:32:07 .....         3679         3679  boot/modloop-virt/kernel/net/ipv6/ip6_udp_tunnel.ko.gz
+2026-03-19 20:32:07 .....        12980        12980  boot/modloop-virt/kernel/net/ipv6/ip6_vti.ko.gz
+2026-03-19 20:32:07 .....         4522         4522  boot/modloop-virt/kernel/net/ipv6/ipcomp6.ko.gz
+2026-03-19 20:32:07 .....       335915       335915  boot/modloop-virt/kernel/net/ipv6/ipv6.ko.gz
+2026-03-19 20:32:07 .....         5993         5993  boot/modloop-virt/kernel/net/ipv6/mip6.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/ipv6/netfilter
+2026-03-19 20:32:08 .....        13981        13981  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6_tables.ko.gz
+2026-03-19 20:32:07 .....         4317         4317  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_NPT.ko.gz
+2026-03-19 20:32:07 .....         3898         3898  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_REJECT.ko.gz
+2026-03-19 20:32:07 .....         4443         4443  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_SYNPROXY.ko.gz
+2026-03-19 20:32:07 .....         4893         4893  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_ah.ko.gz
+2026-03-19 20:32:07 .....         3100         3100  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_eui64.ko.gz
+2026-03-19 20:32:07 .....         5395         5395  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_frag.ko.gz
+2026-03-19 20:32:07 .....         5300         5300  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_hbh.ko.gz
+2026-03-19 20:32:07 .....         3488         3488  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_ipv6header.ko.gz
+2026-03-19 20:32:07 .....         3623         3623  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_mh.ko.gz
+2026-03-19 20:32:07 .....         4104         4104  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_rpfilter.ko.gz
+2026-03-19 20:32:08 .....         4297         4297  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_rt.ko.gz
+2026-03-19 20:32:08 .....         4949         4949  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6t_srh.ko.gz
+2026-03-19 20:32:08 .....         4675         4675  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6table_filter.ko.gz
+2026-03-19 20:32:08 .....         4151         4151  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6table_mangle.ko.gz
+2026-03-19 20:32:08 .....         4197         4197  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6table_nat.ko.gz
+2026-03-19 20:32:08 .....         4139         4139  boot/modloop-virt/kernel/net/ipv6/netfilter/ip6table_raw.ko.gz
+2026-03-19 20:32:08 .....        10788        10788  boot/modloop-virt/kernel/net/ipv6/netfilter/nf_defrag_ipv6.ko.gz
+2026-03-19 20:32:08 .....         3011         3011  boot/modloop-virt/kernel/net/ipv6/netfilter/nf_dup_ipv6.ko.gz
+2026-03-19 20:32:08 .....         7277         7277  boot/modloop-virt/kernel/net/ipv6/netfilter/nf_reject_ipv6.ko.gz
+2026-03-19 20:32:08 .....         3182         3182  boot/modloop-virt/kernel/net/ipv6/netfilter/nf_socket_ipv6.ko.gz
+2026-03-19 20:32:08 .....         4386         4386  boot/modloop-virt/kernel/net/ipv6/netfilter/nf_tproxy_ipv6.ko.gz
+2026-03-19 20:32:08 .....         4481         4481  boot/modloop-virt/kernel/net/ipv6/netfilter/nft_dup_ipv6.ko.gz
+2026-03-19 20:32:08 .....         6642         6642  boot/modloop-virt/kernel/net/ipv6/netfilter/nft_fib_ipv6.ko.gz
+2026-03-19 20:32:08 .....         4402         4402  boot/modloop-virt/kernel/net/ipv6/netfilter/nft_reject_ipv6.ko.gz
+2026-03-19 20:32:07 .....        17751        17751  boot/modloop-virt/kernel/net/ipv6/sit.ko.gz
+2026-03-19 20:32:07 .....         4542         4542  boot/modloop-virt/kernel/net/ipv6/tunnel6.ko.gz
+2026-03-19 20:32:07 .....         5877         5877  boot/modloop-virt/kernel/net/ipv6/xfrm6_tunnel.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/key
+2026-03-19 20:32:08 .....        25299        25299  boot/modloop-virt/kernel/net/key/af_key.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/l2tp
+2026-03-19 20:32:08 .....        25152        25152  boot/modloop-virt/kernel/net/l2tp/l2tp_core.ko.gz
+2026-03-19 20:32:08 .....         6233         6233  boot/modloop-virt/kernel/net/l2tp/l2tp_eth.ko.gz
+2026-03-19 20:32:08 .....        10102        10102  boot/modloop-virt/kernel/net/l2tp/l2tp_ip.ko.gz
+2026-03-19 20:32:08 .....        11104        11104  boot/modloop-virt/kernel/net/l2tp/l2tp_ip6.ko.gz
+2026-03-19 20:32:08 .....         9444         9444  boot/modloop-virt/kernel/net/l2tp/l2tp_netlink.ko.gz
+2026-03-19 20:32:08 .....        15432        15432  boot/modloop-virt/kernel/net/l2tp/l2tp_ppp.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/llc
+2026-03-19 20:32:08 .....         6033         6033  boot/modloop-virt/kernel/net/llc/llc.ko.gz
+2026-03-19 20:32:08 .....        51965        51965  boot/modloop-virt/kernel/net/llc/llc2.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/mpls
+2026-03-19 20:32:08 .....         2973         2973  boot/modloop-virt/kernel/net/mpls/mpls_gso.ko.gz
+2026-03-19 20:32:08 .....         5809         5809  boot/modloop-virt/kernel/net/mpls/mpls_iptunnel.ko.gz
+2026-03-19 20:32:08 .....        22183        22183  boot/modloop-virt/kernel/net/mpls/mpls_router.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/netfilter
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/netfilter/ipset
+2026-03-19 20:32:08 .....        28380        28380  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set.ko.gz
+2026-03-19 20:32:08 .....        11329        11329  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_bitmap_ip.ko.gz
+2026-03-19 20:32:08 .....        10966        10966  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_bitmap_ipmac.ko.gz
+2026-03-19 20:32:08 .....        10156        10156  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_bitmap_port.ko.gz
+2026-03-19 20:32:08 .....        24932        24932  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_ip.ko.gz
+2026-03-19 20:32:08 .....        24511        24511  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_ipmac.ko.gz
+2026-03-19 20:32:08 .....        24751        24751  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_ipmark.ko.gz
+2026-03-19 20:32:08 .....        26084        26084  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_ipport.ko.gz
+2026-03-19 20:32:08 .....        25983        25983  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_ipportip.ko.gz
+2026-03-19 20:32:08 .....        28728        28728  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_ipportnet.ko.gz
+2026-03-19 20:32:08 .....        17932        17932  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_mac.ko.gz
+2026-03-19 20:32:08 .....        27257        27257  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_net.ko.gz
+2026-03-19 20:32:08 .....        27711        27711  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_netiface.ko.gz
+2026-03-19 20:32:08 .....        29233        29233  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_netnet.ko.gz
+2026-03-19 20:32:08 .....        28312        28312  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_netport.ko.gz
+2026-03-19 20:32:08 .....        29431        29431  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_hash_netportnet.ko.gz
+2026-03-19 20:32:08 .....        10987        10987  boot/modloop-virt/kernel/net/netfilter/ipset/ip_set_list_set.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/netfilter/ipvs
+2026-03-19 20:32:08 .....       102535       102535  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs.ko.gz
+2026-03-19 20:32:08 .....         7500         7500  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_dh.ko.gz
+2026-03-19 20:32:08 .....         6600         6600  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_fo.ko.gz
+2026-03-19 20:32:08 .....        10358        10358  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_ftp.ko.gz
+2026-03-19 20:32:08 .....        10137        10137  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_lblc.ko.gz
+2026-03-19 20:32:08 .....        11054        11054  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_lblcr.ko.gz
+2026-03-19 20:32:08 .....         6630         6630  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_lc.ko.gz
+2026-03-19 20:32:08 .....         9401         9401  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_mh.ko.gz
+2026-03-19 20:32:08 .....         6662         6662  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_nq.ko.gz
+2026-03-19 20:32:08 .....         6636         6636  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_ovf.ko.gz
+2026-03-19 20:32:08 .....         8311         8311  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_pe_sip.ko.gz
+2026-03-19 20:32:08 .....         7157         7157  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_rr.ko.gz
+2026-03-19 20:32:08 .....         6654         6654  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_sed.ko.gz
+2026-03-19 20:32:08 .....         7941         7941  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_sh.ko.gz
+2026-03-19 20:32:08 .....         6670         6670  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_wlc.ko.gz
+2026-03-19 20:32:08 .....         7760         7760  boot/modloop-virt/kernel/net/netfilter/ipvs/ip_vs_wrr.ko.gz
+2026-03-19 20:32:08 .....         9057         9057  boot/modloop-virt/kernel/net/netfilter/nf_conncount.ko.gz
+2026-03-19 20:32:08 .....        83307        83307  boot/modloop-virt/kernel/net/netfilter/nf_conntrack.ko.gz
+2026-03-19 20:32:08 .....         5487         5487  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_amanda.ko.gz
+2026-03-19 20:32:08 .....         2747         2747  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_broadcast.ko.gz
+2026-03-19 20:32:08 .....        10014        10014  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_ftp.ko.gz
+2026-03-19 20:32:08 .....        35969        35969  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_h323.ko.gz
+2026-03-19 20:32:08 .....         6921         6921  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_irc.ko.gz
+2026-03-19 20:32:08 .....         3091         3091  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_netbios_ns.ko.gz
+2026-03-19 20:32:08 .....        27906        27906  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_netlink.ko.gz
+2026-03-19 20:32:08 .....        11072        11072  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_pptp.ko.gz
+2026-03-19 20:32:08 .....         5141         5141  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_sane.ko.gz
+2026-03-19 20:32:08 .....        17796        17796  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_sip.ko.gz
+2026-03-19 20:32:08 .....         3234         3234  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_snmp.ko.gz
+2026-03-19 20:32:08 .....         5404         5404  boot/modloop-virt/kernel/net/netfilter/nf_conntrack_tftp.ko.gz
+2026-03-19 20:32:08 .....         4977         4977  boot/modloop-virt/kernel/net/netfilter/nf_dup_netdev.ko.gz
+2026-03-19 20:32:08 .....        22745        22745  boot/modloop-virt/kernel/net/netfilter/nf_flow_table.ko.gz
+2026-03-19 20:32:08 .....         4000         4000  boot/modloop-virt/kernel/net/netfilter/nf_flow_table_inet.ko.gz
+2026-03-19 20:32:08 .....        10726        10726  boot/modloop-virt/kernel/net/netfilter/nf_log_syslog.ko.gz
+2026-03-19 20:32:08 .....        26702        26702  boot/modloop-virt/kernel/net/netfilter/nf_nat.ko.gz
+2026-03-19 20:32:08 .....         3554         3554  boot/modloop-virt/kernel/net/netfilter/nf_nat_amanda.ko.gz
+2026-03-19 20:32:08 .....         4495         4495  boot/modloop-virt/kernel/net/netfilter/nf_nat_ftp.ko.gz
+2026-03-19 20:32:08 .....         4146         4146  boot/modloop-virt/kernel/net/netfilter/nf_nat_irc.ko.gz
+2026-03-19 20:32:08 .....        10110        10110  boot/modloop-virt/kernel/net/netfilter/nf_nat_sip.ko.gz
+2026-03-19 20:32:08 .....         3187         3187  boot/modloop-virt/kernel/net/netfilter/nf_nat_tftp.ko.gz
+2026-03-19 20:32:08 .....        12553        12553  boot/modloop-virt/kernel/net/netfilter/nf_synproxy_core.ko.gz
+2026-03-19 20:32:08 .....       148555       148555  boot/modloop-virt/kernel/net/netfilter/nf_tables.ko.gz
+2026-03-19 20:32:08 .....         9276         9276  boot/modloop-virt/kernel/net/netfilter/nfnetlink.ko.gz
+2026-03-19 20:32:08 .....         8142         8142  boot/modloop-virt/kernel/net/netfilter/nfnetlink_acct.ko.gz
+2026-03-19 20:32:08 .....         8465         8465  boot/modloop-virt/kernel/net/netfilter/nfnetlink_cthelper.ko.gz
+2026-03-19 20:32:08 .....         8371         8371  boot/modloop-virt/kernel/net/netfilter/nfnetlink_cttimeout.ko.gz
+2026-03-19 20:32:08 .....        11670        11670  boot/modloop-virt/kernel/net/netfilter/nfnetlink_log.ko.gz
+2026-03-19 20:32:08 .....         6828         6828  boot/modloop-virt/kernel/net/netfilter/nfnetlink_osf.ko.gz
+2026-03-19 20:32:08 .....        14276        14276  boot/modloop-virt/kernel/net/netfilter/nfnetlink_queue.ko.gz
+2026-03-19 20:32:08 .....         3332         3332  boot/modloop-virt/kernel/net/netfilter/nft_chain_nat.ko.gz
+2026-03-19 20:32:08 .....        11755        11755  boot/modloop-virt/kernel/net/netfilter/nft_compat.ko.gz
+2026-03-19 20:32:08 .....         6060         6060  boot/modloop-virt/kernel/net/netfilter/nft_connlimit.ko.gz
+2026-03-19 20:32:08 .....        13922        13922  boot/modloop-virt/kernel/net/netfilter/nft_ct.ko.gz
+2026-03-19 20:32:08 .....         5671         5671  boot/modloop-virt/kernel/net/netfilter/nft_dup_netdev.ko.gz
+2026-03-19 20:32:08 .....         5337         5337  boot/modloop-virt/kernel/net/netfilter/nft_fib.ko.gz
+2026-03-19 20:32:08 .....         4503         4503  boot/modloop-virt/kernel/net/netfilter/nft_fib_inet.ko.gz
+2026-03-19 20:32:08 .....         4656         4656  boot/modloop-virt/kernel/net/netfilter/nft_fib_netdev.ko.gz
+2026-03-19 20:32:08 .....         9180         9180  boot/modloop-virt/kernel/net/netfilter/nft_flow_offload.ko.gz
+2026-03-19 20:32:08 .....         6805         6805  boot/modloop-virt/kernel/net/netfilter/nft_fwd_netdev.ko.gz
+2026-03-19 20:32:08 .....         6136         6136  boot/modloop-virt/kernel/net/netfilter/nft_hash.ko.gz
+2026-03-19 20:32:08 .....         7384         7384  boot/modloop-virt/kernel/net/netfilter/nft_limit.ko.gz
+2026-03-19 20:32:08 .....         6361         6361  boot/modloop-virt/kernel/net/netfilter/nft_log.ko.gz
+2026-03-19 20:32:08 .....         5518         5518  boot/modloop-virt/kernel/net/netfilter/nft_masq.ko.gz
+2026-03-19 20:32:08 .....         6232         6232  boot/modloop-virt/kernel/net/netfilter/nft_nat.ko.gz
+2026-03-19 20:32:08 .....         5724         5724  boot/modloop-virt/kernel/net/netfilter/nft_numgen.ko.gz
+2026-03-19 20:32:08 .....         5560         5560  boot/modloop-virt/kernel/net/netfilter/nft_osf.ko.gz
+2026-03-19 20:32:08 .....         5929         5929  boot/modloop-virt/kernel/net/netfilter/nft_queue.ko.gz
+2026-03-19 20:32:08 .....         6764         6764  boot/modloop-virt/kernel/net/netfilter/nft_quota.ko.gz
+2026-03-19 20:32:08 .....         5707         5707  boot/modloop-virt/kernel/net/netfilter/nft_redir.ko.gz
+2026-03-19 20:32:08 .....         4784         4784  boot/modloop-virt/kernel/net/netfilter/nft_reject.ko.gz
+2026-03-19 20:32:08 .....         4689         4689  boot/modloop-virt/kernel/net/netfilter/nft_reject_inet.ko.gz
+2026-03-19 20:32:08 .....         5971         5971  boot/modloop-virt/kernel/net/netfilter/nft_socket.ko.gz
+2026-03-19 20:32:08 .....         5995         5995  boot/modloop-virt/kernel/net/netfilter/nft_tproxy.ko.gz
+2026-03-19 20:32:08 .....         9049         9049  boot/modloop-virt/kernel/net/netfilter/nft_tunnel.ko.gz
+2026-03-19 20:32:08 .....        18606        18606  boot/modloop-virt/kernel/net/netfilter/x_tables.ko.gz
+2026-03-19 20:32:08 .....         4324         4324  boot/modloop-virt/kernel/net/netfilter/xt_AUDIT.ko.gz
+2026-03-19 20:32:08 .....         3766         3766  boot/modloop-virt/kernel/net/netfilter/xt_CHECKSUM.ko.gz
+2026-03-19 20:32:08 .....         2945         2945  boot/modloop-virt/kernel/net/netfilter/xt_CLASSIFY.ko.gz
+2026-03-19 20:32:08 .....         4336         4336  boot/modloop-virt/kernel/net/netfilter/xt_CONNSECMARK.ko.gz
+2026-03-19 20:32:08 .....         6916         6916  boot/modloop-virt/kernel/net/netfilter/xt_CT.ko.gz
+2026-03-19 20:32:08 .....         3567         3567  boot/modloop-virt/kernel/net/netfilter/xt_DSCP.ko.gz
+2026-03-19 20:32:08 .....         3530         3530  boot/modloop-virt/kernel/net/netfilter/xt_HL.ko.gz
+2026-03-19 20:32:08 .....         5368         5368  boot/modloop-virt/kernel/net/netfilter/xt_HMARK.ko.gz
+2026-03-19 20:32:08 .....        10037        10037  boot/modloop-virt/kernel/net/netfilter/xt_IDLETIMER.ko.gz
+2026-03-19 20:32:08 .....         3954         3954  boot/modloop-virt/kernel/net/netfilter/xt_LOG.ko.gz
+2026-03-19 20:32:08 .....         4235         4235  boot/modloop-virt/kernel/net/netfilter/xt_MASQUERADE.ko.gz
+2026-03-19 20:32:08 .....         4449         4449  boot/modloop-virt/kernel/net/netfilter/xt_NETMAP.ko.gz
+2026-03-19 20:32:08 .....         3560         3560  boot/modloop-virt/kernel/net/netfilter/xt_NFLOG.ko.gz
+2026-03-19 20:32:08 .....         4925         4925  boot/modloop-virt/kernel/net/netfilter/xt_NFQUEUE.ko.gz
+2026-03-19 20:32:08 .....         5725         5725  boot/modloop-virt/kernel/net/netfilter/xt_RATEEST.ko.gz
+2026-03-19 20:32:08 .....         4040         4040  boot/modloop-virt/kernel/net/netfilter/xt_REDIRECT.ko.gz
+2026-03-19 20:32:08 .....         4617         4617  boot/modloop-virt/kernel/net/netfilter/xt_SECMARK.ko.gz
+2026-03-19 20:32:08 .....         5757         5757  boot/modloop-virt/kernel/net/netfilter/xt_TCPMSS.ko.gz
+2026-03-19 20:32:08 .....         3867         3867  boot/modloop-virt/kernel/net/netfilter/xt_TCPOPTSTRIP.ko.gz
+2026-03-19 20:32:08 .....         4950         4950  boot/modloop-virt/kernel/net/netfilter/xt_TEE.ko.gz
+2026-03-19 20:32:08 .....         5373         5373  boot/modloop-virt/kernel/net/netfilter/xt_TPROXY.ko.gz
+2026-03-19 20:32:08 .....         3079         3079  boot/modloop-virt/kernel/net/netfilter/xt_TRACE.ko.gz
+2026-03-19 20:32:08 .....         4873         4873  boot/modloop-virt/kernel/net/netfilter/xt_addrtype.ko.gz
+2026-03-19 20:32:08 .....         4644         4644  boot/modloop-virt/kernel/net/netfilter/xt_bpf.ko.gz
+2026-03-19 20:32:08 .....         4466         4466  boot/modloop-virt/kernel/net/netfilter/xt_cgroup.ko.gz
+2026-03-19 20:32:08 .....         4102         4102  boot/modloop-virt/kernel/net/netfilter/xt_cluster.ko.gz
+2026-03-19 20:32:08 .....         2836         2836  boot/modloop-virt/kernel/net/netfilter/xt_comment.ko.gz
+2026-03-19 20:32:08 .....         3953         3953  boot/modloop-virt/kernel/net/netfilter/xt_connbytes.ko.gz
+2026-03-19 20:32:08 .....         4187         4187  boot/modloop-virt/kernel/net/netfilter/xt_connlabel.ko.gz
+2026-03-19 20:32:08 .....         3710         3710  boot/modloop-virt/kernel/net/netfilter/xt_connlimit.ko.gz
+2026-03-19 20:32:08 .....         4886         4886  boot/modloop-virt/kernel/net/netfilter/xt_connmark.ko.gz
+2026-03-19 20:32:08 .....         4907         4907  boot/modloop-virt/kernel/net/netfilter/xt_conntrack.ko.gz
+2026-03-19 20:32:08 .....         3056         3056  boot/modloop-virt/kernel/net/netfilter/xt_cpu.ko.gz
+2026-03-19 20:32:08 .....         4464         4464  boot/modloop-virt/kernel/net/netfilter/xt_dccp.ko.gz
+2026-03-19 20:32:08 .....         3166         3166  boot/modloop-virt/kernel/net/netfilter/xt_devgroup.ko.gz
+2026-03-19 20:32:08 .....         3291         3291  boot/modloop-virt/kernel/net/netfilter/xt_dscp.ko.gz
+2026-03-19 20:32:08 .....         4085         4085  boot/modloop-virt/kernel/net/netfilter/xt_ecn.ko.gz
+2026-03-19 20:32:08 .....         4014         4014  boot/modloop-virt/kernel/net/netfilter/xt_esp.ko.gz
+2026-03-19 20:32:08 .....        12301        12301  boot/modloop-virt/kernel/net/netfilter/xt_hashlimit.ko.gz
+2026-03-19 20:32:08 .....         4284         4284  boot/modloop-virt/kernel/net/netfilter/xt_helper.ko.gz
+2026-03-19 20:32:08 .....         3173         3173  boot/modloop-virt/kernel/net/netfilter/xt_hl.ko.gz
+2026-03-19 20:32:08 .....         4131         4131  boot/modloop-virt/kernel/net/netfilter/xt_ipcomp.ko.gz
+2026-03-19 20:32:08 .....         4172         4172  boot/modloop-virt/kernel/net/netfilter/xt_iprange.ko.gz
+2026-03-19 20:32:08 .....         8914         8914  boot/modloop-virt/kernel/net/netfilter/xt_ipvs.ko.gz
+2026-03-19 20:32:08 .....         5499         5499  boot/modloop-virt/kernel/net/netfilter/xt_l2tp.ko.gz
+2026-03-19 20:32:08 .....         3124         3124  boot/modloop-virt/kernel/net/netfilter/xt_length.ko.gz
+2026-03-19 20:32:08 .....         3956         3956  boot/modloop-virt/kernel/net/netfilter/xt_limit.ko.gz
+2026-03-19 20:32:08 .....         2979         2979  boot/modloop-virt/kernel/net/netfilter/xt_mac.ko.gz
+2026-03-19 20:32:08 .....         3315         3315  boot/modloop-virt/kernel/net/netfilter/xt_mark.ko.gz
+2026-03-19 20:32:08 .....         4469         4469  boot/modloop-virt/kernel/net/netfilter/xt_multiport.ko.gz
+2026-03-19 20:32:08 .....         4548         4548  boot/modloop-virt/kernel/net/netfilter/xt_nat.ko.gz
+2026-03-19 20:32:08 .....         3545         3545  boot/modloop-virt/kernel/net/netfilter/xt_nfacct.ko.gz
+2026-03-19 20:32:08 .....         3196         3196  boot/modloop-virt/kernel/net/netfilter/xt_osf.ko.gz
+2026-03-19 20:32:08 .....         3919         3919  boot/modloop-virt/kernel/net/netfilter/xt_owner.ko.gz
+2026-03-19 20:32:08 .....         3804         3804  boot/modloop-virt/kernel/net/netfilter/xt_physdev.ko.gz
+2026-03-19 20:32:08 .....         2974         2974  boot/modloop-virt/kernel/net/netfilter/xt_pkttype.ko.gz
+2026-03-19 20:32:08 .....         4456         4456  boot/modloop-virt/kernel/net/netfilter/xt_policy.ko.gz
+2026-03-19 20:32:08 .....         3538         3538  boot/modloop-virt/kernel/net/netfilter/xt_quota.ko.gz
+2026-03-19 20:32:08 .....         3851         3851  boot/modloop-virt/kernel/net/netfilter/xt_rateest.ko.gz
+2026-03-19 20:32:08 .....         2896         2896  boot/modloop-virt/kernel/net/netfilter/xt_realm.ko.gz
+2026-03-19 20:32:08 .....        11635        11635  boot/modloop-virt/kernel/net/netfilter/xt_recent.ko.gz
+2026-03-19 20:32:08 .....         5074         5074  boot/modloop-virt/kernel/net/netfilter/xt_sctp.ko.gz
+2026-03-19 20:32:08 .....         8794         8794  boot/modloop-virt/kernel/net/netfilter/xt_set.ko.gz
+2026-03-19 20:32:08 .....         4839         4839  boot/modloop-virt/kernel/net/netfilter/xt_socket.ko.gz
+2026-03-19 20:32:08 .....         3394         3394  boot/modloop-virt/kernel/net/netfilter/xt_state.ko.gz
+2026-03-19 20:32:08 .....         3645         3645  boot/modloop-virt/kernel/net/netfilter/xt_statistic.ko.gz
+2026-03-19 20:32:08 .....         3376         3376  boot/modloop-virt/kernel/net/netfilter/xt_string.ko.gz
+2026-03-19 20:32:08 .....         3409         3409  boot/modloop-virt/kernel/net/netfilter/xt_tcpmss.ko.gz
+2026-03-19 20:32:08 .....         4984         4984  boot/modloop-virt/kernel/net/netfilter/xt_tcpudp.ko.gz
+2026-03-19 20:32:08 .....         4571         4571  boot/modloop-virt/kernel/net/netfilter/xt_time.ko.gz
+2026-03-19 20:32:08 .....         3837         3837  boot/modloop-virt/kernel/net/netfilter/xt_u32.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/netlink
+2026-03-19 20:32:08 .....         4775         4775  boot/modloop-virt/kernel/net/netlink/netlink_diag.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/nsh
+2026-03-19 20:32:08 .....         4045         4045  boot/modloop-virt/kernel/net/nsh/nsh.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/openvswitch
+2026-03-19 20:32:08 .....       101317       101317  boot/modloop-virt/kernel/net/openvswitch/openvswitch.ko.gz
+2026-03-19 20:32:08 .....         5071         5071  boot/modloop-virt/kernel/net/openvswitch/vport-geneve.ko.gz
+2026-03-19 20:32:08 .....         4726         4726  boot/modloop-virt/kernel/net/openvswitch/vport-gre.ko.gz
+2026-03-19 20:32:08 .....         6128         6128  boot/modloop-virt/kernel/net/openvswitch/vport-vxlan.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/packet
+2026-03-19 20:32:08 .....        36139        36139  boot/modloop-virt/kernel/net/packet/af_packet.ko.gz
+2026-03-19 20:32:08 .....         5900         5900  boot/modloop-virt/kernel/net/packet/af_packet_diag.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/sched
+2026-03-19 20:32:08 .....         6799         6799  boot/modloop-virt/kernel/net/sched/act_bpf.ko.gz
+2026-03-19 20:32:08 .....         6049         6049  boot/modloop-virt/kernel/net/sched/act_connmark.ko.gz
+2026-03-19 20:32:08 .....         8107         8107  boot/modloop-virt/kernel/net/sched/act_csum.ko.gz
+2026-03-19 20:32:08 .....         6531         6531  boot/modloop-virt/kernel/net/sched/act_gact.ko.gz
+2026-03-19 20:32:08 .....        11102        11102  boot/modloop-virt/kernel/net/sched/act_ife.ko.gz
+2026-03-19 20:32:08 .....         7932         7932  boot/modloop-virt/kernel/net/sched/act_ipt.ko.gz
+2026-03-19 20:32:08 .....         3013         3013  boot/modloop-virt/kernel/net/sched/act_meta_mark.ko.gz
+2026-03-19 20:32:08 .....         2949         2949  boot/modloop-virt/kernel/net/sched/act_meta_skbprio.ko.gz
+2026-03-19 20:32:08 .....         3023         3023  boot/modloop-virt/kernel/net/sched/act_meta_skbtcindex.ko.gz
+2026-03-19 20:32:08 .....         9248         9248  boot/modloop-virt/kernel/net/sched/act_mirred.ko.gz
+2026-03-19 20:32:08 .....         6411         6411  boot/modloop-virt/kernel/net/sched/act_nat.ko.gz
+2026-03-19 20:32:08 .....         9107         9107  boot/modloop-virt/kernel/net/sched/act_pedit.ko.gz
+2026-03-19 20:32:08 .....         8050         8050  boot/modloop-virt/kernel/net/sched/act_police.ko.gz
+2026-03-19 20:32:08 .....         5428         5428  boot/modloop-virt/kernel/net/sched/act_simple.ko.gz
+2026-03-19 20:32:08 .....         7762         7762  boot/modloop-virt/kernel/net/sched/act_skbedit.ko.gz
+2026-03-19 20:32:08 .....         6395         6395  boot/modloop-virt/kernel/net/sched/act_skbmod.ko.gz
+2026-03-19 20:32:08 .....        10088        10088  boot/modloop-virt/kernel/net/sched/act_tunnel_key.ko.gz
+2026-03-19 20:32:08 .....         7206         7206  boot/modloop-virt/kernel/net/sched/act_vlan.ko.gz
+2026-03-19 20:32:08 .....         7163         7163  boot/modloop-virt/kernel/net/sched/cls_basic.ko.gz
+2026-03-19 20:32:08 .....         9228         9228  boot/modloop-virt/kernel/net/sched/cls_bpf.ko.gz
+2026-03-19 20:32:08 .....         4739         4739  boot/modloop-virt/kernel/net/sched/cls_cgroup.ko.gz
+2026-03-19 20:32:08 .....         9053         9053  boot/modloop-virt/kernel/net/sched/cls_flow.ko.gz
+2026-03-19 20:32:08 .....        29458        29458  boot/modloop-virt/kernel/net/sched/cls_flower.ko.gz
+2026-03-19 20:32:08 .....         7252         7252  boot/modloop-virt/kernel/net/sched/cls_fw.ko.gz
+2026-03-19 20:32:08 .....         7671         7671  boot/modloop-virt/kernel/net/sched/cls_matchall.ko.gz
+2026-03-19 20:32:08 .....         8207         8207  boot/modloop-virt/kernel/net/sched/cls_route.ko.gz
+2026-03-19 20:32:08 .....        14762        14762  boot/modloop-virt/kernel/net/sched/cls_u32.ko.gz
+2026-03-19 20:32:08 .....         2659         2659  boot/modloop-virt/kernel/net/sched/em_cmp.ko.gz
+2026-03-19 20:32:08 .....         4386         4386  boot/modloop-virt/kernel/net/sched/em_ipset.ko.gz
+2026-03-19 20:32:08 .....         5934         5934  boot/modloop-virt/kernel/net/sched/em_ipt.ko.gz
+2026-03-19 20:32:08 .....         7566         7566  boot/modloop-virt/kernel/net/sched/em_meta.ko.gz
+2026-03-19 20:32:08 .....         2706         2706  boot/modloop-virt/kernel/net/sched/em_nbyte.ko.gz
+2026-03-19 20:32:08 .....         3528         3528  boot/modloop-virt/kernel/net/sched/em_text.ko.gz
+2026-03-19 20:32:08 .....         2399         2399  boot/modloop-virt/kernel/net/sched/em_u32.ko.gz
+2026-03-19 20:32:08 .....        22417        22417  boot/modloop-virt/kernel/net/sched/sch_cake.ko.gz
+2026-03-19 20:32:08 .....         8185         8185  boot/modloop-virt/kernel/net/sched/sch_cbs.ko.gz
+2026-03-19 20:32:08 .....         7454         7454  boot/modloop-virt/kernel/net/sched/sch_choke.ko.gz
+2026-03-19 20:32:08 .....         7332         7332  boot/modloop-virt/kernel/net/sched/sch_codel.ko.gz
+2026-03-19 20:32:08 .....         8523         8523  boot/modloop-virt/kernel/net/sched/sch_drr.ko.gz
+2026-03-19 20:32:08 .....         6405         6405  boot/modloop-virt/kernel/net/sched/sch_etf.ko.gz
+2026-03-19 20:32:08 .....        10918        10918  boot/modloop-virt/kernel/net/sched/sch_fq.ko.gz
+2026-03-19 20:32:08 .....        10382        10382  boot/modloop-virt/kernel/net/sched/sch_fq_codel.ko.gz
+2026-03-19 20:32:08 .....         8596         8596  boot/modloop-virt/kernel/net/sched/sch_fq_pie.ko.gz
+2026-03-19 20:32:08 .....        11979        11979  boot/modloop-virt/kernel/net/sched/sch_gred.ko.gz
+2026-03-19 20:32:08 .....        13352        13352  boot/modloop-virt/kernel/net/sched/sch_hfsc.ko.gz
+2026-03-19 20:32:08 .....         7241         7241  boot/modloop-virt/kernel/net/sched/sch_hhf.ko.gz
+2026-03-19 20:32:08 .....        19836        19836  boot/modloop-virt/kernel/net/sched/sch_htb.ko.gz
+2026-03-19 20:32:08 .....         6334         6334  boot/modloop-virt/kernel/net/sched/sch_ingress.ko.gz
+2026-03-19 20:32:08 .....         9053         9053  boot/modloop-virt/kernel/net/sched/sch_mqprio.ko.gz
+2026-03-19 20:32:08 .....         3412         3412  boot/modloop-virt/kernel/net/sched/sch_mqprio_lib.ko.gz
+2026-03-19 20:32:08 .....         6543         6543  boot/modloop-virt/kernel/net/sched/sch_multiq.ko.gz
+2026-03-19 20:32:08 .....        12120        12120  boot/modloop-virt/kernel/net/sched/sch_netem.ko.gz
+2026-03-19 20:32:08 .....         8021         8021  boot/modloop-virt/kernel/net/sched/sch_pie.ko.gz
+2026-03-19 20:32:08 .....         3649         3649  boot/modloop-virt/kernel/net/sched/sch_plug.ko.gz
+2026-03-19 20:32:08 .....         7251         7251  boot/modloop-virt/kernel/net/sched/sch_prio.ko.gz
+2026-03-19 20:32:08 .....        14305        14305  boot/modloop-virt/kernel/net/sched/sch_qfq.ko.gz
+2026-03-19 20:32:08 .....         9587         9587  boot/modloop-virt/kernel/net/sched/sch_red.ko.gz
+2026-03-19 20:32:08 .....         8100         8100  boot/modloop-virt/kernel/net/sched/sch_sfb.ko.gz
+2026-03-19 20:32:08 .....        11056        11056  boot/modloop-virt/kernel/net/sched/sch_sfq.ko.gz
+2026-03-19 20:32:08 .....         4486         4486  boot/modloop-virt/kernel/net/sched/sch_skbprio.ko.gz
+2026-03-19 20:32:08 .....         8475         8475  boot/modloop-virt/kernel/net/sched/sch_tbf.ko.gz
+2026-03-19 20:32:08 .....         7296         7296  boot/modloop-virt/kernel/net/sched/sch_teql.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/sctp
+2026-03-19 20:32:08 .....       222102       222102  boot/modloop-virt/kernel/net/sctp/sctp.ko.gz
+2026-03-19 20:32:08 .....        15701        15701  boot/modloop-virt/kernel/net/sctp/sctp_diag.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/sunrpc
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/sunrpc/auth_gss
+2026-03-19 20:32:08 .....        67699        67699  boot/modloop-virt/kernel/net/sunrpc/auth_gss/auth_rpcgss.ko.gz
+2026-03-19 20:32:08 .....        14675        14675  boot/modloop-virt/kernel/net/sunrpc/auth_gss/rpcsec_gss_krb5.ko.gz
+2026-03-19 20:32:08 .....       269203       269203  boot/modloop-virt/kernel/net/sunrpc/sunrpc.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/tls
+2026-03-19 20:32:08 .....        42603        42603  boot/modloop-virt/kernel/net/tls/tls.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/unix
+2026-03-19 20:32:08 .....         5506         5506  boot/modloop-virt/kernel/net/unix/unix_diag.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/vmw_vsock
+2026-03-19 20:32:08 .....        11948        11948  boot/modloop-virt/kernel/net/vmw_vsock/hv_sock.ko.gz
+2026-03-19 20:32:08 .....        10431        10431  boot/modloop-virt/kernel/net/vmw_vsock/vmw_vsock_virtio_transport.ko.gz
+2026-03-19 20:32:08 .....        21112        21112  boot/modloop-virt/kernel/net/vmw_vsock/vmw_vsock_virtio_transport_common.ko.gz
+2026-03-19 20:32:08 .....        23688        23688  boot/modloop-virt/kernel/net/vmw_vsock/vsock.ko.gz
+2026-03-19 20:32:08 .....         4910         4910  boot/modloop-virt/kernel/net/vmw_vsock/vsock_diag.ko.gz
+2026-03-19 20:32:08 .....         5780         5780  boot/modloop-virt/kernel/net/vmw_vsock/vsock_loopback.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/net/xfrm
+2026-03-19 20:32:08 .....         5302         5302  boot/modloop-virt/kernel/net/xfrm/xfrm_algo.ko.gz
+2026-03-19 20:32:08 .....        14118        14118  boot/modloop-virt/kernel/net/xfrm/xfrm_interface.ko.gz
+2026-03-19 20:32:08 .....         6122         6122  boot/modloop-virt/kernel/net/xfrm/xfrm_ipcomp.ko.gz
+2026-03-19 20:32:08 .....        26111        26111  boot/modloop-virt/kernel/net/xfrm/xfrm_user.ko.gz
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/security
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/security/keys
+2026-03-19 20:32:08 D....                            boot/modloop-virt/kernel/security/keys/encrypted-keys
+2026-03-19 20:32:08 .....        10965        10965  boot/modloop-virt/kernel/security/keys/encrypted-keys/encrypted-keys.ko.gz
+2026-03-19 20:32:08 .....            6            6  boot/modloop-virt/kernel-suffix
+2026-03-19 20:32:08 .....       102951       102951  boot/modloop-virt/modules.alias
+2026-03-19 20:32:08 .....       120154       120154  boot/modloop-virt/modules.alias.bin
+2026-03-19 20:32:08 .....         3884         3884  boot/modloop-virt/modules.builtin
+2026-03-19 20:32:08 .....         5172         5172  boot/modloop-virt/modules.builtin.alias.bin
+2026-03-19 20:32:08 .....         5374         5374  boot/modloop-virt/modules.builtin.bin
+2026-03-19 20:32:08 .....        32520        32520  boot/modloop-virt/modules.builtin.modinfo
+2026-03-19 20:32:08 .....        92273        92273  boot/modloop-virt/modules.dep
+2026-03-19 20:32:08 .....       125793       125793  boot/modloop-virt/modules.dep.bin
+2026-03-19 20:32:08 .....          316          316  boot/modloop-virt/modules.devname
+2026-03-19 20:32:08 .....        30993        30993  boot/modloop-virt/modules.order
+2026-03-19 20:32:08 .....          990          990  boot/modloop-virt/modules.softdep
+2026-03-19 20:32:08 .....       241352       241352  boot/modloop-virt/modules.symbols
+2026-03-19 20:32:08 .....       289285       289285  boot/modloop-virt/modules.symbols.bin
+2026-03-19 20:50:07 .....    222932992    222932992  boot/rootfs.squashfs
+2026-03-19 20:27:19 .....      8561152      8561152  boot/vmlinuz-virt
+2026-03-19 20:50:56 D....                            etc
+2026-03-19 20:50:56 .....          113          113  etc/profile
+2026-03-22 17:48:27 .....    222932992    222932992  initrd.img
+2026-03-22 17:39:21 D....                            isolinux
+2026-03-22 17:49:32 .....         2048         2048  isolinux/boot.cat
+2026-03-22 17:39:25 .....    222932992    222932992  isolinux/initrd.img
+2025-12-02 17:10:32 .....        43008        43008  isolinux/isolinux.bin
+2025-12-02 17:10:32 .....       115128       115128  isolinux/ldlinux.c32
+2026-03-22 17:49:16 .....          206          206  isolinux.cfg
+2026-03-22 17:33:01 .....           80           80  ldlinux.c32
+2026-03-22 17:38:30 .....    222932992    222932992  rootfs.squashfs
+2026-03-22 17:48:22 .....      8561152      8561152  vmlinuz
+                    .....         2048         2048  [BOOT]/Boot-NoEmul.img
+------------------- ----- ------------ ------------  ------------------------
+2026-03-22 17:49:32          976089120    976089120  947 files, 224 folders
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            53:ab:13:82:0f:21:21:33:78:2d:e6:48:d4:c0:0f:26:7a:4f:0e:c9
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=AZ, ST=Sumgait, L=Sumgait, O=Internet Widgits Pty Ltd, CN=Mehdikhan, emailAddress=m-khan20.12m@proton.me
+        Validity
+            Not Before: Mar 22 18:36:11 2026 GMT
+            Not After : Jul 23 18:36:11 3025 GMT
+        Subject: C=AZ, ST=Sumgait, L=Sumgait, O=Internet Widgits Pty Ltd, CN=Mehdikhan, emailAddress=m-khan20.12m@proton.me
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:bf:1e:de:66:3e:2c:6a:24:55:db:e6:30:ad:6c:
+                    e2:7a:a0:20:ca:78:0b:36:3a:5f:9b:7b:11:52:c6:
+                    7d:0e:d7:c8:52:7b:1e:12:4f:60:66:45:40:bc:e0:
+                    ce:94:38:8f:7c:48:58:f2:2e:a7:91:8f:2a:9b:2f:
+                    df:69:13:ac:d0:3a:3d:e7:f3:cd:04:f6:83:56:8e:
+                    7f:e5:fa:07:d6:db:82:c0:94:d6:7e:71:ae:f9:8e:
+                    d1:35:8e:d9:f0:e1:ba:02:bf:a1:8c:fb:91:61:e3:
+                    2f:3e:00:8b:0f:92:49:96:23:12:a1:ea:e6:77:8c:
+                    39:c8:1a:ae:63:ff:48:f3:62:c7:0f:35:09:41:aa:
+                    2b:61:37:f5:06:d8:c0:26:9d:21:ee:50:fe:aa:26:
+                    70:08:31:21:90:7e:68:12:cb:0a:38:fb:e8:e1:f0:
+                    9b:de:d4:c4:ae:73:dd:24:51:13:69:02:cf:c5:cc:
+                    39:71:b7:39:39:ab:75:2c:12:5d:06:34:fc:7f:f0:
+                    1f:93:f6:4f:2f:a9:99:1f:2f:13:1a:9f:5b:26:eb:
+                    f9:38:ff:e8:0a:57:7c:c8:18:c4:3d:8d:1c:55:5e:
+                    fa:cb:94:af:35:44:6c:59:43:01:59:21:0a:d3:08:
+                    77:80:c8:04:53:32:40:6b:d2:cd:56:14:5f:4a:f0:
+                    7a:1c:46:9e:58:83:1b:9a:39:b4:ff:5d:35:7e:1b:
+                    d0:00:b6:2f:d0:68:32:a7:cd:8b:23:1c:07:f6:51:
+                    d5:9e:f6:bb:76:f7:38:1d:61:6a:50:ec:3a:e4:18:
+                    e1:78:ea:ad:40:8d:8b:de:80:5d:17:41:7f:d2:e3:
+                    9d:f3:9c:50:5c:5f:2f:5f:8d:cc:2c:ef:6f:27:ac:
+                    8b:9f:40:90:80:94:d8:22:f4:2a:5f:02:7f:ee:f0:
+                    32:df:62:53:8f:9b:8d:6f:ed:ed:82:5d:74:6b:9c:
+                    8e:de:b4:b5:92:2f:54:73:ea:4d:50:86:d8:a7:f8:
+                    e8:2c:68:7a:9c:2b:53:ba:ff:df:cc:33:bb:24:52:
+                    e8:ab:ad:ec:6d:51:e9:df:6c:c7:fa:39:f6:03:d2:
+                    af:f7:a4:d8:82:2d:bb:fe:bd:2c:03:bf:ae:20:bc:
+                    6d:b9:98:af:15:cc:e3:e0:4c:b2:5f:bc:58:dc:db:
+                    0d:b3:9c:8f:4b:76:d0:16:a5:77:d6:13:e8:11:a6:
+                    d5:9b:67:5b:64:a8:51:73:e4:13:7c:de:5a:3b:3b:
+                    1b:38:da:81:5d:d9:47:7a:8f:e1:ee:bd:da:1c:86:
+                    13:a0:86:bc:57:16:70:46:6b:60:c5:4c:dd:8b:93:
+                    b0:ea:7a:28:99:58:e3:7a:c1:01:5a:c1:2c:01:4d:
+                    c4:dd:bd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier:
+                4C:D6:31:39:C5:4C:D2:4A:C2:D4:4C:99:01:19:96:C7:C4:6A:9D:69
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        56:d2:58:e4:6d:0b:7d:7a:b7:54:21:e4:0d:ba:db:3c:9b:76:
+        f0:3b:16:17:b6:4f:d6:c1:e9:4c:d9:d3:1b:41:4d:fb:62:95:
+        f6:be:6d:16:b1:7e:1e:f2:bb:db:03:72:72:c6:06:8b:57:48:
+        47:01:fe:ab:eb:25:42:6d:2b:55:dd:be:16:e0:39:ad:0d:84:
+        4f:67:cd:58:05:bd:80:4f:cd:d7:f8:b0:f0:ca:56:e3:d0:3e:
+        bc:04:16:e3:12:44:66:56:a7:f2:83:db:97:74:06:38:3d:e1:
+        3f:03:66:8d:57:67:87:37:cd:4e:e2:63:c4:84:b6:ce:79:3d:
+        38:2f:74:5e:b0:a0:dc:90:76:91:62:ae:12:09:ce:f8:bf:2f:
+        aa:8f:cb:cb:7a:7d:58:f2:8c:f3:e4:3b:dd:22:e6:d2:e6:7a:
+        11:3f:74:47:f7:64:2b:38:96:c6:a3:9f:fe:d9:51:6d:8a:ac:
+        2d:ad:31:e6:3f:f4:cc:fe:1e:dc:54:bf:57:82:5e:e3:8a:d0:
+        33:df:04:39:7d:3f:28:53:01:ac:da:32:52:51:0a:31:a6:b4:
+        68:f9:82:56:87:7e:de:7f:9f:68:e2:fd:1c:06:05:5d:68:71:
+        f6:4f:ff:dc:a3:30:4d:94:9b:f4:cd:a4:87:e6:90:16:e1:fa:
+        16:3e:9c:6b:97:83:4d:48:47:c5:22:37:8a:ad:ce:6b:5b:fe:
+        18:dc:10:36:e4:06:0f:9d:6a:a8:aa:a9:28:ab:ef:89:4e:e1:
+        b8:39:24:f5:be:fa:74:16:a4:ed:9d:e5:2c:7b:2c:3a:a1:c9:
+        6d:22:6a:62:a3:b9:50:b4:9d:b4:fb:10:d4:8b:64:25:7d:e1:
+        57:7f:15:ea:11:21:fa:d5:c3:1d:e0:1e:04:f0:46:44:bb:6e:
+        1b:4f:c0:b8:13:33:6e:ed:67:37:1f:ba:52:df:f3:6e:af:74:
+        c4:d2:1f:b3:a7:be:05:c1:02:f7:67:86:1b:fd:dc:d5:55:e4:
+        79:d1:16:0c:8f:7a:74:ae:6c:cc:b3:dc:e1:f1:1e:bc:74:c8:
+        32:60:a1:81:12:c4:5e:1c:3e:39:5f:81:f3:b2:4f:21:19:74:
+        a5:44:2e:f5:14:90:77:b1:a0:fa:ec:3a:ba:aa:a8:38:21:a9:
+        8c:c4:d3:8c:a7:65:25:43:fb:ce:e2:f1:f3:6f:05:29:a7:5b:
+        4e:ef:3f:6c:dc:66:32:8c:ab:93:82:76:1a:25:6f:c4:b7:26:
+        fc:df:d8:ed:41:4d:85:32:71:0a:be:09:0e:0d:cc:31:e3:34:
+        23:99:1b:3b:eb:c8:cb:86:eb:87:e4:51:e4:19:15:92:df:5a:
+        48:9d:44:f3:4c:fa:51:c0
+Certificate request self-signature ok
+subject=C=AZ, ST=Sumgait, L=Sumgait, O=KhanOS Feodal, OU=KhanOS, CN=Mehdikhan, emailAddress=m-khan20.12m@proton.me
