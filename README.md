@@ -30,15 +30,19 @@ KhanOS Feodal v1.0 - Hardened Linux Distro with Post-Quantum Encryption &amp; 10
 
 ​Design Philosophy:
 
-
 ​The UI follows the Y2K(Frutiger aero) and Retro Cyberpunk and aesthetic—aiming to make security feel transparent and optimistic rather than dark and intimidating. It uses the Sway(Wayland) window manager for maximum efficiency.And Support True color(32 Bit , native resolution)
 
 
-​Disclaimer:
+​Disclaimer/Warning:
+
+KhanOS is currently optimized for the ARM64 (AArch64) architecture (Kernel 6.6.117-virt). If booted directly inside standard x86_64 (Intel/AMD) virtual environments (such as VirtualBox or VMware running on a traditional PC), you will encounter the EFI Shell screen due to architecture mismatch.
+
+​Recommended Environments:
+
+​Apple Silicon Mac (M1/M2/M3/M4): UTM or VMware Fusion (Native ARM64 virtualization)
 
 
-​This is currently a Test/Beta version. Due to its experimental nature and specific UEFI configurations, it might face compatibility issues on certain hardware. I recommend testing it in a virtual environment.
-
+​Classic PC (x86_64): A custom-configured qemu-system-aarch64 emulator with ARM64 UEFI firmware (QEMU_EFI.fd).
 
 ​Made with pride in Azerbaijan! 🇦🇿
 
