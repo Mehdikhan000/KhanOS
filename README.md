@@ -31,7 +31,7 @@ KhanOS Feodal v1.0 - Hardened Linux Distro with Post-Quantum Encryption &amp; 10
 ​Design Philosophy:
 
 
-​The UI follows the Frutiger Aero aesthetic—aiming to make security feel transparent and optimistic rather than dark and intimidating. It uses the Sway window manager for maximum efficiency.
+​The UI follows the Y2K or Retro Cyberpunk and aesthetic—aiming to make security feel transparent and optimistic rather than dark and intimidating. It uses the Sway window manager for maximum efficiency.
 
 
 ​Disclaimer:
