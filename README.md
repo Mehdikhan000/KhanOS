@@ -50,4 +50,4 @@ KhanOS Feodal v1.0 - Hardened Linux Distro with Post-Quantum Encryption &amp; 10
 
 The link and ISO file are on archive.org 
 
-We have 18 votes on Distrowatch in the waiting list
+We have 19 votes on Distrowatch in the waiting list
