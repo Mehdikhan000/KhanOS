@@ -56,5 +56,3 @@ KhanOS is currently optimized for the ARM64 (AArch64) architecture (Kernel 6.6.1
 The link and ISO file are on archive.org 
 
 We have 66 votes on Distrowatch in the waiting list
-
-#contact - kmailhan@atomicmail.io
