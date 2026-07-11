@@ -1,4 +1,5 @@
 # KhanOS
+contact: kmailhan@atomicmail.io
 KhanOS Feodal v1.0 - Hardened Linux Distro with Post-Quantum Encryption &amp; 1000-Year SSL. 
 ​I want to introduce a project I've been working on: KhanOS Feodal v1.0. It’s a minimalist, ARM-based, hardened Linux distribution (0.98 GB) designed with a "Digital Fortress" philosophy. It is now officially archived on Archive.org.
 
